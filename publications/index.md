@@ -31,9 +31,6 @@ You can also visit my [google scholar](http://scholar.google.co.uk/citations?use
 <p><b>39.</b> D.T. Milodowski, <b>S.M. Mudd</b>, and E.T.A. Mitchard (2015). Erosion rates as a potential bottom-up control of forest structural characteristics in the Sierra Nevada Mountains. <i>Ecology</i>, 96, 31&#8211;38, doi:10.1890/14-0649.1. <a href="http://www.esajournals.org/doi/abs/10.1890/14-0649.1" title="Milodowski et al link">Open access paper</a></p>
 
 
-
-
-
 ## 2014
 
 <p><b>38.</b> M.O. Johnson, <b>S.M. Mudd</b>,  B. Pillans, N.A. Spooner, L.K. Fifield and M. Gloor (2014), Quantifying the intensity and depth dependence of bioturbation based on Optically stimulated luminescence (OSL) dates and meteoric 10Be, <i>Earth Surface Processes and Landforms</i>, 39(9),  1188-1196, doi: 10.1002/esp.3520. <a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/esp.3520" title="Johnson et al link">enhanced html</a> </p>
@@ -41,8 +38,6 @@ You can also visit my [google scholar](http://scholar.google.co.uk/citations?use
 <p><b>37.</b> F.J. Clubb, <b>S.M. Mudd</b>,  D.T. Milodowski, M.D. Hurst and L.J. Slater (2014), Objective extraction of channel heads from high resolution topographic data, <i>Water Resources Research</i>, 50(5), 4283-4304, DOI: 10.1002/2013WR015167.   <a href="Clubb_etal_wrr.pdf" title="Clubb et al accepted WRR">pdf</a></p>
 
 <p><b>36. Mudd, S.M.</b>,   M. Attal, D.T. Milodowski, S.W.D. Grieve and D.A. Valters (2014), A statistical framework to quantify spatial variation in channel gradients using the integral method of channel profile analysis, <i>Journal of Geophysical Research-Earth Surface</i>, <b>119</b> 138&#8211;152, doi: 10.1002/2013JF002981 <a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/2013JF002981/" title="Mudd et al link">enhanced html</a></p>
-
-
 
 
 ## 2013
@@ -54,6 +49,7 @@ You can also visit my [google scholar](http://scholar.google.co.uk/citations?use
 <p><b>33. S.M. Mudd</b>, K. Yoo and E.J. Gabet (2013), Influence of Chemical Weathering on Hillslope Forms, In: John F. Shroder (ed.) <i>Treatise on Geomorphology</i>, Volume 7, 56-65. San Diego: Academic Press. <a href="Mudd_treatise2013.pdf" title="Mudd et al 2013 Treatise">pdf</a></p>
 
 <p><b>32.</b> M.D. Hurst, <b>S.M. Mudd</b>, K. Yoo, M. Attal and R. Walcott (2013), Influence of lithology on hillslope morphology and response to tectonic forcing in the northern Sierra Nevada of California, <i>Journal of Geophysical Research-Earth Surface</i>, 118, 832-851, DOI: 10.1002/jgrf.20049. <a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/jgrf.20049/" title="Hurst et al. 2013 JGR-Earth Surface">enhanced html</a></p>
+
 
 ## 2012
 
@@ -70,6 +66,7 @@ You can also visit my [google scholar](http://scholar.google.co.uk/citations?use
 <p><b>26.</b> A. Ghahramani, I. Yoshiharu and <b>S.M. Mudd</b> (2012), Field experiments constraining the probability distribution of particle travel distances during natural rainstorms on different slope gradients, <i>Earth Surface Processes and Landforms</i>, 37(5), 473-485, doi: 10.1002/esp.2253. <a href="Ghar_ESPL2012.pdf" title="Ghahramani et al. 2012 ESPL">pdf</a></p>
 
 <p><b>25.</b> S. Fagherazzi, M.L. Kirwan, <b>S.M. Mudd</b>, G.R. Guntenspergen, S. Temmerman, A. D'Alpaos, J. van de Koppel, J.M. Rybczyk, E. Reyes, C. Craft, and J. Clough  (2012), Numerical models of salt marsh evolution: Ecological, geomorphic, and climatic factors, <i>Reviews of Geophysics</i>, 50, RG1002,  doi:10.1029/2011RG000359. <a href="Fagherazzi_ROG2012.pdf" title="Fagherazzi et al. 2012 Rev. Geophys.">pdf</a></p>
+
 
 ## 2011
 
@@ -94,6 +91,7 @@ You can also visit my [google scholar](http://scholar.google.co.uk/citations?use
 
 <p><b>16.</b> Dunne, T., Malmon, D.V. and  <b>Mudd, S.M.</b> (2010), A rainsplash transport equation assimilating field and laboratory measurements.   <i>Journal of Geophysical Research-Earth Surface</i>, 115, F01001, doi:10.1029/2009JF001302. <a href="Dunneetal2010.pdf" title="Dunne et al. 2010 JGR-ES">pdf</a></p>
 
+
 ## 2009
 
 <p><b>15.</b> Yoo, K., <b>Mudd, S.M.</b>, Sanderman, J., Amundson, R. and Blum, A. (2009), Spatial patterns and controls of soil chemical weathering rates along a transient hillslope.   <i>Earth and Planetary Science Letters</i>, 288(1-2), 184-193, doi:10.1016/j.epsl.2009.09.021. <a href="YMetal_EPSL2010.pdf" title="Yoo et al. 2009 EPSL">pdf</a></p>
@@ -115,18 +113,12 @@ You can also visit my [google scholar](http://scholar.google.co.uk/citations?use
 
 ## 2007
 
-<p><b>9. Mudd, S.M.</b>, and D.J. Furbish (2007), Responses of
-soil mantled hillslopes to transient channel incision rates, <i>Journal of
-Geophysical Research-Earth Surface, </i>112, F03S18, doi:10.1029/2006JF000516. 
-<a href="Mudd_Furbish_2007.pdf" title="Mudd and Furbish 2007 JGR">pdf</a>
-</p>
+<p><b>9. Mudd, S.M.</b>, and D.J. Furbish (2007), Responses of soil mantled hillslopes to transient channel incision rates, <i>Journal of
+Geophysical Research-Earth Surface, </i>112, F03S18, doi:10.1029/2006JF000516. <a href="Mudd_Furbish_2007.pdf" title="Mudd and Furbish 2007 JGR">pdf</a></p>
 
 <p><b>8.</b> Furbish, D.J., K.K. Hamner, M. Schmeeckle, M.N.
-Borosund, and <b>S.M. Mudd</b> (2007), Rainsplash of dry sand revealed by
-high-speed imaging and sticky-paper splash targets, <i>Journal of Geophysical
-Research-Earth Surface</i>, 112,
+Borosund, and <b>S.M. Mudd</b> (2007), Rainsplash of dry sand revealed by high-speed imaging and sticky-paper splash targets, <i>Journal of Geophysical Research-Earth Surface</i>, 112,
 F01001, doi:10.1029/2006JF000498. <a href="Furbish_etal_2007.pdf" title="Furbish et al 2007">pdf</a></p>
-
 
 
 ## 2006
@@ -142,7 +134,6 @@ in hillslope soils to estimate the importance of chemical denudation under
 conditions of downslope sediment transport, <i>Journal of Geophysical
 Research-Earth Surface</i>, 111, F02021, doi:10.1029/2005JF000343.
 <a href="Mudd_Furbish_2006.pdf" title="Mudd and Furbish 2006 JGR">pdf</a> </p>
-
 
 <p><b>5. Mudd S.M.</b>(2006), Investigation of the hydrodynamics of
 flash floods in ephemeral channels: Scaling analysis and simulation using a
@@ -160,13 +151,12 @@ debris flows in dilative soils. <i>Geomorphology</i>, 74(1-4), 207-218.
 <a href="Gabet_Mudd_2006.pdf" title="Gabet and Mudd 2006 Geomorphology">pdf</a></p>
 
 
-
-
 ## 2005
 
 <p><b>3. Mudd, S.M.</b> and Furbish, D.J. (2005), Lateral
 migration of hillcrests in response to channel incision in soil mantled
 landscapes, <i>Journal of Geophysical Research-Earth Surface</i>, 110(12), F04026, doi:10.1029/2005JF000313. <a href="Mudd_Furbish_2005.pdf" title="Mudd and Furbish 2005 JGR">pdf</a></p>
+
 
 ## 2004
 
