@@ -1,4 +1,13 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: Home
+  url: /
+  
+- title: Pubs
+  url: /publications
+  
+- title: Software
+  url: /software
+  
+- title: Group
+  url: /group 
