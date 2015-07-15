@@ -10,7 +10,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Geomorphology</h2>
-  <p class="post-excerpt">I am a geomorphologist that uses quantitative methods to understand why the surface of our planet looks the way it does, what that reaveals about the movement of sediment, water and nutrients, and how topography can be used to infer climate and tectonics.</p>
+  <p class="post-excerpt">I am a geomorphologist that uses quantitative methods to understand why the surface of our planet looks the way it does, what that reveals about the movement of sediment, water and nutrients, and how topography can be used to infer climate and tectonics.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
