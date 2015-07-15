@@ -3,7 +3,7 @@
 title: Simon Marius Mudd
 description: "Simon M. Mudd's website"
 logo: Simon_Photo_160x160.jpg # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser: teaser_400x250.jpg # 400x250 px default teaser image used in image archive grid
 locale: en_US
 url: //simon-m-mudd.github.io
 
