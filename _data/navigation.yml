@@ -9,3 +9,7 @@
   url: /about/
   excerpt: "About."
   image: Kids_fishtank_400x250.jpg
+  
+- title: Group
+  url: /group/
+  excerpt: "Group members."
