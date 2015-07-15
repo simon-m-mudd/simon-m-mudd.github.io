@@ -41,7 +41,7 @@ You can also visit my [google scholar](http://scholar.google.co.uk/citations?use
 <p><b>37.</b> F.J. Clubb, <b>S.M. Mudd</b>,  D.T. Milodowski, M.D. Hurst and L.J. Slater (2014), Objective extraction of channel heads from high resolution topographic data, <i>Water Resources Research</i>, 50(5), 4283-4304, DOI: 10.1002/2013WR015167.   <a href="Clubb_etal_wrr.pdf" title="Clubb et al accepted WRR">pdf</a></p>
 
 <p><b>36. Mudd, S.M.</b>,   M. Attal, D.T. Milodowski, S.W.D. Grieve and D.A. Valters (2014), A statistical framework to quantify spatial variation in channel gradients using the integral method of channel profile analysis, <i>Journal of Geophysical Research-Earth Surface</i>, <b>119</b> 138&#8211;152, doi: 10.1002/2013JF002981 <a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/2013JF002981/" title="Mudd et al link">enhanced html</a></p>
-<hr align="center" size="2" width="100%">
+
 
 
 
@@ -54,8 +54,6 @@ You can also visit my [google scholar](http://scholar.google.co.uk/citations?use
 <p><b>33. S.M. Mudd</b>, K. Yoo and E.J. Gabet (2013), Influence of Chemical Weathering on Hillslope Forms, In: John F. Shroder (ed.) <i>Treatise on Geomorphology</i>, Volume 7, 56-65. San Diego: Academic Press. <a href="Mudd_treatise2013.pdf" title="Mudd et al 2013 Treatise">pdf</a></p>
 
 <p><b>32.</b> M.D. Hurst, <b>S.M. Mudd</b>, K. Yoo, M. Attal and R. Walcott (2013), Influence of lithology on hillslope morphology and response to tectonic forcing in the northern Sierra Nevada of California, <i>Journal of Geophysical Research-Earth Surface</i>, 118, 832-851, DOI: 10.1002/jgrf.20049. <a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/jgrf.20049/" title="Hurst et al. 2013 JGR-Earth Surface">enhanced html</a></p>
-<hr align="center" size="2" width="100%">
-<br>
 
 ## 2012
 
@@ -69,42 +67,32 @@ You can also visit my [google scholar](http://scholar.google.co.uk/citations?use
 
 <p><b>27.</b> G.S Bilotta, M. Grove and <b>S.M. Mudd</b> (2012), Assessing the significance of soil erosion, <i>Transactions of the Institute of British Geographers</i>, 37(3), 342-345, doi: 10.1111/j.1475-5661.2011.00497.x. <a href="Bilotta_TIBG2012.pdf" title="Bilotta et al. 2012 Trans. Inst. British Geog.">pdf</a></p>
 
-<p><b>26.</b> A. Ghahramani, I. Yoshiharu and <b>S.M. Mudd</b> (2012), Field experiments constraining the probability distribution of particle travel distances during natural rainstorms on different slope gradients, <i>Earth Surface Processes and Landforms</i>, 37(5), 473-485, doi: 10.1002/esp.2253. <a href="Ghar_ESPL2012.pdf" title="Ghahramani et al. 2012 ESPL">pdf</a>
- </p>
+<p><b>26.</b> A. Ghahramani, I. Yoshiharu and <b>S.M. Mudd</b> (2012), Field experiments constraining the probability distribution of particle travel distances during natural rainstorms on different slope gradients, <i>Earth Surface Processes and Landforms</i>, 37(5), 473-485, doi: 10.1002/esp.2253. <a href="Ghar_ESPL2012.pdf" title="Ghahramani et al. 2012 ESPL">pdf</a></p>
 
-<p><b>25.</b> S. Fagherazzi, M.L. Kirwan, <b>S.M. Mudd</b>, G.R. Guntenspergen, S. Temmerman, A. D'Alpaos, J. van de Koppel, J.M. Rybczyk, E. Reyes, C. Craft, and J. Clough  (2012), Numerical models of salt marsh evolution: Ecological, geomorphic, and climatic factors, <i>Reviews of Geophysics</i>, 50, RG1002,  doi:10.1029/2011RG000359. <a href="Fagherazzi_ROG2012.pdf" title="Fagherazzi et al. 2012 Rev. Geophys.">pdf</a>
-</p>
-
+<p><b>25.</b> S. Fagherazzi, M.L. Kirwan, <b>S.M. Mudd</b>, G.R. Guntenspergen, S. Temmerman, A. D'Alpaos, J. van de Koppel, J.M. Rybczyk, E. Reyes, C. Craft, and J. Clough  (2012), Numerical models of salt marsh evolution: Ecological, geomorphic, and climatic factors, <i>Reviews of Geophysics</i>, 50, RG1002,  doi:10.1029/2011RG000359. <a href="Fagherazzi_ROG2012.pdf" title="Fagherazzi et al. 2012 Rev. Geophys.">pdf</a></p>
 
 ## 2011
 
-<p><b>24.</b> A. D&#8217;Alpaos, <b>S.M. Mudd</b>, L. Carniello (2011), Dynamic response of marshes to perturbations in suspended sediment concentrations and rates of relative sea level rise, <i>Journal of Geophysical Research-Earth Surface</i>, 115,  doi: 10.1029/2011JF002093. <a href="DAlpaos_JGRES2011.pdf" title="D'Alpaos et al. 2011 JGR-ES">pdf</a>
-</p>
+<p><b>24.</b> A. D&#8217;Alpaos, <b>S.M. Mudd</b>, L. Carniello (2011), Dynamic response of marshes to perturbations in suspended sediment concentrations and rates of relative sea level rise, <i>Journal of Geophysical Research-Earth Surface</i>, 115,  doi: 10.1029/2011JF002093. <a href="DAlpaos_JGRES2011.pdf" title="D'Alpaos et al. 2011 JGR-ES">pdf</a></p>
 
-<p><b>23.</b> D.E.H. Hobley, H.D. Sinclair, <b>S.M. Mudd</b>, and P. A. Cowie (2011), Field calibration of sediment flux dependent river incision, <i>Journal of Geophysical Research-Earth Surface</i>, 115,  doi:10.1029/2010JF001935. <a href="Hobleyetal_JGR2011.pdf" title="Hobley et al. 2011 JGR-ES">pdf</a>
-</p>
+<p><b>23.</b> D.E.H. Hobley, H.D. Sinclair, <b>S.M. Mudd</b>, and P. A. Cowie (2011), Field calibration of sediment flux dependent river incision, <i>Journal of Geophysical Research-Earth Surface</i>, 115,  doi:10.1029/2010JF001935. <a href="Hobleyetal_JGR2011.pdf" title="Hobley et al. 2011 JGR-ES">pdf</a></p>
 
-<p><b>22. Mudd, S.M.</b> (2011), The life and death of salt marshes in response to anthropogenic disturbance of sediment supply, <i>Geology</i>, 39(5),  doi:10.1130/focus052011.1, 511-512. <a href="Mudd_geology2011.pdf" title="Mudd 2011 Geology">pdf</a>
-</p>
+<p><b>22. Mudd, S.M.</b> (2011), The life and death of salt marshes in response to anthropogenic disturbance of sediment supply, <i>Geology</i>, 39(5),  doi:10.1130/focus052011.1, 511-512. <a href="Mudd_geology2011.pdf" title="Mudd 2011 Geology">pdf</a></p>
 
-<p><b>21.</b> K. Yoo, B. Weinman, <b>S.M. Mudd</b>, M. Hurst, M. Attal, K. Maher (2011) Evolution of hillslope soils: The geomorphic theater and the geochemical play, <i>Applied Geochemistry</i>, Volume 26, Supplement, June 2011, Pages S149-S153. <a href="Yoo_etal_2011.pdf" title="Yoo et al. 2011 Applied Geochemistry">pdf</a>
- </p>
+<p><b>21.</b> K. Yoo, B. Weinman, <b>S.M. Mudd</b>, M. Hurst, M. Attal, K. Maher (2011) Evolution of hillslope soils: The geomorphic theater and the geochemical play, <i>Applied Geochemistry</i>, Volume 26, Supplement, June 2011, Pages S149-S153. <a href="Yoo_etal_2011.pdf" title="Yoo et al. 2011 Applied Geochemistry">pdf</a></p>
 
 
 ## 2010
 
 <p><b>20.</b> M.L Kirwan, G. R. Guntenspergen, A. D'Alpaos, J. T. Morris, <b>S. M. Mudd</b>, and S. Temmerman (2010), Limits on the adaptability of coastal marshes to rising sea level, <i>Geophysical Research Letters</i>, 37, L23401, doi:10.1029/2010GL045489. <a href="Kirwan_etal_GRL2011.pdf" title="Kirwan et al. 2011 GRL">pdf</a> </p> 
 
-<p><b>19.</b> Gabet, E.J. and <b>Mudd, S.M.</b> (2010),  Bedrock erosion by tree throw: a model coupling biology and geomorphology to explore the humped soil production function and the persistence of hillslope soils. <i>Journal of Geophysical Research-Earth Surface</i>, 115,  F04005,  doi:10.1029/2009JF001526. <a href="GabetandMudd_2010.pdf" title="Gabet and Mudd 2010 JGR-ES">pdf</a>
-</p>
+<p><b>19.</b> Gabet, E.J. and <b>Mudd, S.M.</b> (2010),  Bedrock erosion by tree throw: a model coupling biology and geomorphology to explore the humped soil production function and the persistence of hillslope soils. <i>Journal of Geophysical Research-Earth Surface</i>, 115,  F04005,  doi:10.1029/2009JF001526. <a href="GabetandMudd_2010.pdf" title="Gabet and Mudd 2010 JGR-ES">pdf</a></p>
 
 <p><b>18. Mudd, S.M.</b> and K. Yoo (2010), Reservoir Theory for Studying the Geochemical Evolution of Soils. <i>Journal of Geophysical Research-Earth Surface</i>, 115,  F03030,  doi:10.1029/2009JF001591. <a href="YooandMudd_2010.pdf" title="Mudd and Yoo 2010 JGR-ES">pdf</a></p>
 
 <p><b>17. Mudd, S.M.</b> A. D'Alpaos and J.T. Morris (2010), How does vegetation affect sedimentation on tidal marshes? Investigating particle capture and hydrodynamic controls on biologically mediated sedimentation. <i>Journal of Geophysical Research-Earth Surface</i>, 115,  F03029,  doi:10.1029/2009JF001566. <a href="Mudd_etal_2010.pdf" title="Mudd et al. 2010 JGR-ES">pdf</a></p>
 
 <p><b>16.</b> Dunne, T., Malmon, D.V. and  <b>Mudd, S.M.</b> (2010), A rainsplash transport equation assimilating field and laboratory measurements.   <i>Journal of Geophysical Research-Earth Surface</i>, 115, F01001, doi:10.1029/2009JF001302. <a href="Dunneetal2010.pdf" title="Dunne et al. 2010 JGR-ES">pdf</a></p>
-
-<hr align="center" size="2" width="100%">
 
 ## 2009
 
@@ -141,7 +129,6 @@ F01001, doi:10.1029/2006JF000498. <a href="Furbish_etal_2007.pdf" title="Furbish
 ## 2006
 
 
-
 <p><b>7.</b> Alpaos, A., Lanzoni, S., <b>Mudd, S. M.</b>,
 Fagherazzi, S. (2006), Modeling the influence of hydroperiod and vegetation on
 the cross-sectional formation of tidal channels, <i>Estuarine, Coastal, and
@@ -164,14 +151,12 @@ of Hydrology</i>, 324, </i>65-79.<a href="Mudd_2006.pdf" title="Mudd 2006 J. Hyd
 <a href="Mudd_2006_comment.pdf" title="Mudd comment">pdf</a>
 <br>
 <b>reply </b>
-<a href="Mudd_2006_reply.pdf" title="Mudd reply">pdf</a>
-</span></p>
+<a href="Mudd_2006_reply.pdf" title="Mudd reply">pdf</a></p>
 
 <p></i><b>4. </b>Gabet, E.J. and <b>S.M. Mudd</b>. (2006), The mobilization of
 debris flows in dilative soils. <i>Geomorphology</i>, 74(1-4), 207-218.
 <a href="Gabet_Mudd_2006.pdf" title="Gabet and Mudd 2006 Geomorphology">pdf</a></p>
-<hr align="center" size="2" width="100%">
-</div>
+
 
 
 
@@ -179,8 +164,7 @@ debris flows in dilative soils. <i>Geomorphology</i>, 74(1-4), 207-218.
 
 <p><b>3. Mudd, S.M.</b> and Furbish, D.J. (2005), Lateral
 migration of hillcrests in response to channel incision in soil mantled
-landscapes, <i>Journal of Geophysical Research-Earth Surface</i>, 110(12), F04026, doi:10.1029/2005JF000313. <a href="Mudd_Furbish_2005.pdf" title="Mudd and Furbish 2005 JGR">pdf</a>
-</p>
+landscapes, <i>Journal of Geophysical Research-Earth Surface</i>, 110(12), F04026, doi:10.1029/2005JF000313. <a href="Mudd_Furbish_2005.pdf" title="Mudd and Furbish 2005 JGR">pdf</a></p>
 
 ## 2004
 
