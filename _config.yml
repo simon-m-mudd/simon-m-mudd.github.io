@@ -10,8 +10,8 @@ url: //simon-m-mudd.github.io
 # Jekyll configuration
 
 sass:
-    sass_dir: _sass
-    style: compressed
+  sass_dir: _sass
+  style: compressed
 permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
@@ -25,12 +25,7 @@ owner:
   name: Simon M. Mudd
   email: simon.m.mudd@ed.ac.uk
   twitter: simonmariusmudd
-  google:
-    ad-client: 
-    ad-slot: 
-  bio: 
   avatar: images/Simon_Photo_160x160.jpg # 160x160 px image for author byline
-disqus-shortname:
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
