@@ -112,6 +112,7 @@ You can also visit my [google scholar](http://scholar.google.co.uk/citations?use
 
 <p><b>10.</b> Yoo, K. and <b>S.M. Mudd</b> (2008a), Discrepancy between mineral residence time and soil age: Implications for the interpretation of chemical weathering rates. <i>Geology</i>, 36(1): 35-38. <a href="Yoo_Mudd_2008a.pdf" title="Yoo and Mudd 2008 Geology">pdf</a></p>
 
+
 ## 2007
 
 <p><b>9. Mudd, S.M.</b>, and D.J. Furbish (2007), Responses of
@@ -126,8 +127,9 @@ high-speed imaging and sticky-paper splash targets, <i>Journal of Geophysical
 Research-Earth Surface</i>, 112,
 F01001, doi:10.1029/2006JF000498. <a href="Furbish_etal_2007.pdf" title="Furbish et al 2007">pdf</a></p>
 
-## 2006
 
+
+## 2006
 
 <p><b>7.</b> Alpaos, A., Lanzoni, S., <b>Mudd, S. M.</b>,
 Fagherazzi, S. (2006), Modeling the influence of hydroperiod and vegetation on
@@ -168,7 +170,6 @@ landscapes, <i>Journal of Geophysical Research-Earth Surface</i>, 110(12), F0402
 
 ## 2004
 
-<hr align="center" size="2" width="100%">
 <p><b>2. Mudd, S.M.</b>, S. Fagherazzi, J.T. Morris, and D.J.
 Furbish (2004), Flow, sedimentation, and biomass production on a vegetated salt
 marsh in South Carolina: toward a predictive model of marsh morphologic and
