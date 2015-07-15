@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "David T. Milodowski"
-categories: articles
+categories: group
 excerpt: "D.T. Milodowski: Coupling biota and geomorphology"
 tags: [students, group]
 modified: 2015-07-30

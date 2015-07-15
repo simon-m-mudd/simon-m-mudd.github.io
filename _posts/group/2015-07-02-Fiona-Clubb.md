@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Fiona J. Clubb"
-categories: articles
+categories: group
 excerpt: "F.J. Clubb: Detection of process transitions."
 tags: [students, group]
 modified: 2015-07-30

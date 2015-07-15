@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Stuart W.D. Grieve"
-categories: articles
+categories: group
 excerpt: "S.W.D. Grieve: Hillslope metrics for detecting landsliding and sediment flux laws."
 tags: [students, group]
 modified: 2015-07-30
