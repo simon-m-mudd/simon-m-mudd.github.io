@@ -3,7 +3,7 @@
 title: Simon Marius Mudd
 description: "Simon M. Mudd's website"
 logo: Simon_Photo_160x160.jpg # 120x120 px default image used for Twitter summary card
-teaser: teaser_400x250.jpg # 400x250 px default teaser image used in image archive grid
+teaser: monkey_400x250.jpg # 400x250 px default teaser image used in image archive grid
 locale: en_US
 url: //simon-m-mudd.github.io
 encoding: UTF-8
@@ -26,7 +26,7 @@ owner:
   name: Simon M. Mudd
   email: simon.m.mudd@ed.ac.uk
   twitter: simonmariusmudd
-  avatar: images/Simon_Photo_160x160.jpg # 160x160 px image for author byline
+  avatar: Simon_Photo_160x160.jpg # 160x160 px image for author byline
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "readme.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

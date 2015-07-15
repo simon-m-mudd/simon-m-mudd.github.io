@@ -3,4 +3,9 @@
 - title: Publications
   url: /publications/
   excerpt: "My publications."
-  image:
+  image: monkey_400x250.jpg 
+  
+- title: About
+  url: /about/
+  excerpt: "About."
+  image: Kids_fishtank_400x250.jpg

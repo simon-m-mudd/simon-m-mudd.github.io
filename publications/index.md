@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Publications"
-date: 2015-15-7
+date: 2015-07-15
 modified:
 excerpt:
 tags: []
