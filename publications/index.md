@@ -15,7 +15,9 @@ share: false
 The links on this page are to the article of record. Not all of them are open access. To access copies of the papers you can go to:
 
 [google scholar: Simon M. Mudd](http://scholar.google.co.uk/citations?user=9iv6l7wAAAAJ&hl=en)
+
 [research gate: Simon M. Mudd](http://www.researchgate.net/profile/Simon_Mudd)
+
 [Edinburgh research explorer: Simon M. Mudd](http://www.research.ed.ac.uk/portal/en/persons/simon-mudd(597e4975-68c0-4175-8119-0d22d1438753).html)
 
 {% include toc.html %}
@@ -24,147 +26,145 @@ The links on this page are to the article of record. Not all of them are open ac
 ##2015
  
  
-  1. Devrani, R., V. Singh, **S. M. Mudd**, and H. D. Sinclair (2015), Prediction of flash-flood hazard impact from Himalayan river profiles, {\i{}Geophys. Res. Lett.}, 2015GL063784, [doi:10.1002/2015GL063784](href{http://dx.doi.org/doi:10.1002/2015GL063784).
+  1. Devrani, R., V. Singh, **S. M. Mudd**, and H. D. Sinclair (2015), Prediction of flash-flood hazard impact from Himalayan river profiles, *Geophys. Res. Lett.*, 2015GL063784, [doi:10.1002/2015GL063784](href{http://dx.doi.org/doi:10.1002/2015GL063784).
 
-  1. Milodowski, D. T., **S. M. Mudd**, and E. T. A. Mitchard (2015a), Erosion rates as a potential bottom-up control of forest structural characteristics in the Sierra Nevada Mountains, {\i{}Ecology}, {\i{}96}(1), 31-38, [doi:10.1890/14-0649.1.sm](href{http://dx.doi.org/doi:10.1890/14-0649.1.sm).
+  1. Milodowski, D. T., **S. M. Mudd**, and E. T. A. Mitchard (2015a), Erosion rates as a potential bottom-up control of forest structural characteristics in the Sierra Nevada Mountains, *Ecology*, *96*(1), 31-38, [doi:10.1890/14-0649.1.sm](href{http://dx.doi.org/doi:10.1890/14-0649.1.sm).
 
-  1. Attal, M., **S. M. Mudd**, M. D. Hurst, B. Weinman, K. Yoo, and M. Naylor (2015), Impact of change in erosion rate and landscape steepness on hillslope and fluvial sediments grain size in the Feather River basin (Sierra Nevada, California), {\i{}Earth Surface Dynamics}, {\i{}3}(1), 201-222, [doi:10.5194/esurf-3-201-2015](href{http://dx.doi.org/doi:10.5194/esurf-3-201-2015).
+  1. Attal, M., **S. M. Mudd**, M. D. Hurst, B. Weinman, K. Yoo, and M. Naylor (2015), Impact of change in erosion rate and landscape steepness on hillslope and fluvial sediments grain size in the Feather River basin (Sierra Nevada, California), *Earth Surface Dynamics*, *3*(1), 201-222, [doi:10.5194/esurf-3-201-2015](href{http://dx.doi.org/doi:10.5194/esurf-3-201-2015).
 
-  1. Milodowski, D. T., **S. M. Mudd**, and E. T. A. Mitchard (2015b), Topographic roughness as a signature of the emergence of bedrock in eroding landscapes, {\i{}Earth Surface Dynamics Discussions}, {\i{}3}(2), 371-416, [doi:10.5194/esurfd-3-371-2015](href{http://dx.doi.org/doi:10.5194/esurfd-3-371-2015).
+  1. Milodowski, D. T., **S. M. Mudd**, and E. T. A. Mitchard (2015b), Topographic roughness as a signature of the emergence of bedrock in eroding landscapes, *Earth Surface Dynamics Discussions*, *3*(2), 371-416, [doi:10.5194/esurfd-3-371-2015](href{http://dx.doi.org/doi:10.5194/esurfd-3-371-2015).
 
-  1. Gabet, E. J., **S. M. Mudd**, D. T. Milodowski, K. Yoo, M. D. Hurst, and A. Dosseto (2015), Local topography and erosion rate control regolith thickness along a ridgeline in the Sierra Nevada, California, {\i{}Earth Surf. Process. Landforms}, n/a-n/a, [doi:10.1002/esp.3754](href{http://dx.doi.org/doi:10.1002/esp.3754).
+  1. Gabet, E. J., **S. M. Mudd**, D. T. Milodowski, K. Yoo, M. D. Hurst, and A. Dosseto (2015), Local topography and erosion rate control regolith thickness along a ridgeline in the Sierra Nevada, California, *Earth Surf. Process. Landforms*, n/a-n/a, [doi:10.1002/esp.3754](href{http://dx.doi.org/doi:10.1002/esp.3754).
 
 
 ##2014
  
  
-  1. Clubb, F. J., **S. M. Mudd**, D. T. Milodowski, M. D. Hurst, and L. J. Slater (2014), Objective extraction of channel heads from high-resolution topographic data, {\i{}Water Resources Research}, {\i{}50}(5), 4283-4304, [doi:10.1002/2013WR015167](href{http://dx.doi.org/doi:10.1002/2013WR015167).
+  1. **Mudd, S. M.** (2014), Slope Processes, *Oxford Bibliographies* [doi:10.1093/OBO/9780199874002-0083](http://www.oxfordbibliographies.com/view/document/obo-9780199874002/obo-9780199874002-0083.xml).
 
+  1. Clubb, F. J., **S. M. Mudd**, D. T. Milodowski, M. D. Hurst, and L. J. Slater (2014), Objective extraction of channel heads from high-resolution topographic data, *Water Resources Research*, *50*(5), 4283-4304, [doi:10.1002/2013WR015167](href{http://dx.doi.org/doi:10.1002/2013WR015167).
 
-      comment: Passalacqua, P., and E. Foufoula-Georgiou (2015), Comment on 'Objective extraction of channel heads from high-resolution topographic data\uc0\u8221{} by Fiona J. Clubb et al., {\i{}Water Resour. Res.}, {\i{}51}(2), 1372-1376, [doi:10.1002/2014WR016412](href{http://dx.doi.org/doi:10.1002/2014WR016412).
+    comment: Passalacqua, P., and E. Foufoula-Georgiou (2015), Comment on 'Objective extraction of channel heads from high-resolution topographic data\uc0\u8221{} by Fiona J. Clubb et al., *Water Resour. Res.*, *51*(2), 1372-1376, [doi:10.1002/2014WR016412](href{http://dx.doi.org/doi:10.1002/2014WR016412).
 
-      reply: Clubb, F., S. Mudd, and D. Milodowski (2015), Reply to comment by P. Passalacqua and E. Foufoula-Georgiou on 'Objective extraction of channel heads from high-resolution topographic data,\uc0\u8221{} {\i{}Water Resour. Res.}, {\i{}51}(2), 1377-1379, [doi:10.1002/2014WR016603](href{http://dx.doi.org/doi:10.1002/2014WR016603).
+    reply: Clubb, F., S. Mudd, and D. Milodowski (2015), Reply to comment by P. Passalacqua and E. Foufoula-Georgiou on 'Objective extraction of channel heads from high-resolution topographic data,\uc0\u8221{} *Water Resour. Res.*, *51*(2), 1377-1379, [doi:10.1002/2014WR016603](href{http://dx.doi.org/doi:10.1002/2014WR016603).
 
+  1. Johnson, M. O., **S. M. Mudd**, B. Pillans, N. A. Spooner, L. K. Fifield, M. J. Kirkby, and M. Gloor (2014), Quantifying the rate and depth dependence of bioturbation based on optically-stimulated luminescence (OSL) dates and meteoric Be-10, *Earth Surface Processes and Landforms*, *39*(9), 1188-1196, [doi:10.1002/esp.3520](href{http://dx.doi.org/doi:10.1002/esp.3520).
 
-  1. Johnson, M. O., **S. M. Mudd**, B. Pillans, N. A. Spooner, L. K. Fifield, M. J. Kirkby, and M. Gloor (2014), Quantifying the rate and depth dependence of bioturbation based on optically-stimulated luminescence (OSL) dates and meteoric Be-10, {\i{}Earth Surface Processes and Landforms}, {\i{}39}(9), 1188-1196, [doi:10.1002/esp.3520](href{http://dx.doi.org/doi:10.1002/esp.3520).
+  1. **Mudd, S. M.**, M. Attal, D. T. Milodowski, S. W. D. Grieve, and D. A. Valters (2014a), A statistical framework to quantify spatial variation in channel gradients using the integral method of channel profile analysis, *Journal of Geophysical Research-Earth Surface*, *119*(2), 138-152, [doi:10.1002/2013JF002981](href{http://dx.doi.org/doi:10.1002/2013JF002981).
 
-  1. **Mudd, S. M.**, M. Attal, D. T. Milodowski, S. W. D. Grieve, and D. A. Valters (2014a), A statistical framework to quantify spatial variation in channel gradients using the integral method of channel profile analysis, {\i{}Journal of Geophysical Research-Earth Surface}, {\i{}119}(2), 138-152, [doi:10.1002/2013JF002981](href{http://dx.doi.org/doi:10.1002/2013JF002981).
-
-  1. **Mudd, S. M.**, K. Yoo, and B. Weinman (2014b), Quantifying geomorphic controls on time in weathering systems, edited by J. Gaillardet, {\i{}Geochemistry of the Earth's Surface Ges-10}, {\i{}10}, 249-253, [doi:10.1016/j.proeps.2014.08.033](href{http://dx.doi.org/doi:10.1016/j.proeps.2014.08.033).
+  1. **Mudd, S. M.**, K. Yoo, and B. Weinman (2014b), Quantifying geomorphic controls on time in weathering systems, edited by J. Gaillardet, *Geochemistry of the Earth's Surface Ges-10*, *10*, 249-253, [doi:10.1016/j.proeps.2014.08.033](href{http://dx.doi.org/doi:10.1016/j.proeps.2014.08.033).
 
 
 ##2013
  
  
-  1. Hurst, M. D., **S. M. Mudd**, K. Yoo, M. Attal, and R. Walcott (2013b), Influence of lithology on hillslope morphology and response to tectonic forcing in the northern Sierra Nevada of California, {\i{}Journal of Geophysical Research-Earth Surface}, {\i{}118}(2), 832-851, [doi:10.1002/jgrf.20049](href{http://dx.doi.org/doi:10.1002/jgrf.20049).
+  1. Hurst, M. D., **S. M. Mudd**, K. Yoo, M. Attal, and R. Walcott (2013b), Influence of lithology on hillslope morphology and response to tectonic forcing in the northern Sierra Nevada of California, *Journal of Geophysical Research-Earth Surface*, *118*(2), 832-851, [doi:10.1002/jgrf.20049](href{http://dx.doi.org/doi:10.1002/jgrf.20049).
 
-  1. **Mudd, S. M.**, K. Yoo, and E. J. Gabet (2013), 7.5 Influence of Chemical Weathering on Hillslope Forms, in {\i{}Treatise on Geomorphology}, edited by J. F. Shroder, pp. 56-65, Academic Press, San Diego.\
+  1. **Mudd, S. M.**, K. Yoo, and E. J. Gabet (2013), 7.5 Influence of Chemical Weathering on Hillslope Forms, in *Treatise on Geomorphology*, edited by J. F. Shroder, pp. 56-65, Academic Press, San Diego.\
 
-  1. Hoffmann, T. et al. (2013), Short Communication: Humans and the missing C-sink: erosion and burial of soil carbon through time, {\i{}Earth Surface Dynamics}, {\i{}1}(1), 45-52, [doi:10.5194/esurf-1-45-2013](href{http://dx.doi.org/doi:10.5194/esurf-1-45-2013).
+  1. Hoffmann, T. et al. (2013), Short Communication: Humans and the missing C-sink: erosion and burial of soil carbon through time, *Earth Surface Dynamics*, *1*(1), 45-52, [doi:10.5194/esurf-1-45-2013](href{http://dx.doi.org/doi:10.5194/esurf-1-45-2013).
 
-  1. Hurst, M. D., **S. M. Mudd**, M. Attal, and G. Hilley (2013a), Hillslopes Record the Growth and Decay of Landscapes, {\i{}Science}, {\i{}341}(6148), 868-871, [doi:10.1126/science.1241791](href{http://dx.doi.org/doi:10.1126/science.1241791).
+  1. Hurst, M. D., **S. M. Mudd**, M. Attal, and G. Hilley (2013a), Hillslopes Record the Growth and Decay of Landscapes, *Science*, *341*(6148), 868-871, [doi:10.1126/science.1241791](href{http://dx.doi.org/doi:10.1126/science.1241791).
 
 
 ##2012
  
  
-  1. Bilotta, G. S., M. Grove, and **S. M. Mudd** (2012), Assessing the significance of soil erosion, {\i{}Transactions of the Institute of British Geographers}, {\i{}37}(3), 342-345, [doi:10.1111/j.1475-5661.2011.00497.x](href{http://dx.doi.org/doi:10.1111/j.1475-5661.2011.00497.x).
+  1. Bilotta, G. S., M. Grove, and **S. M. Mudd** (2012), Assessing the significance of soil erosion, *Transactions of the Institute of British Geographers*, *37*(3), 342-345, [doi:10.1111/j.1475-5661.2011.00497.x](href{http://dx.doi.org/doi:10.1111/j.1475-5661.2011.00497.x).
 
-  1. Constantine, J. A., M.-J. Schelhaas, E. Gabet, and **S. M. Mudd** (2012), Limits of windthrow-driven hillslope sediment flux due to varying storm frequency and intensity, {\i{}Geomorphology}, {\i{}175}, 66-73, [doi:10.1016/j.geomorph.2012.06.022](href{http://dx.doi.org/doi:10.1016/j.geomorph.2012.06.022).
+  1. Constantine, J. A., M.-J. Schelhaas, E. Gabet, and **S. M. Mudd** (2012), Limits of windthrow-driven hillslope sediment flux due to varying storm frequency and intensity, *Geomorphology*, *175*, 66-73, [doi:10.1016/j.geomorph.2012.06.022](href{http://dx.doi.org/doi:10.1016/j.geomorph.2012.06.022).
 
-  1. Fagherazzi, S. et al. (2012), Numerical Models of Salt Marsh Evolution: Ecological, Geomorphic, and Climatic Factors, {\i{}Reviews of Geophysics}, {\i{}50}, RG1002, [doi:10.1029/2011RG000359](href{http://dx.doi.org/doi:10.1029/2011RG000359).
+  1. Fagherazzi, S. et al. (2012), Numerical Models of Salt Marsh Evolution: Ecological, Geomorphic, and Climatic Factors, *Reviews of Geophysics*, *50*, RG1002, [doi:10.1029/2011RG000359](href{http://dx.doi.org/doi:10.1029/2011RG000359).
 
-  1. Ghahramani, A., I. Yoshiharu, and **S. M. Mudd** (2012), Field experiments constraining the probability distribution of particle travel distances during natural rainstorms on different slope gradients, {\i{}Earth Surface Processes and Landforms}, {\i{}37}(5), 473-485, [doi:10.1002/esp.2253](href{http://dx.doi.org/doi:10.1002/esp.2253).
+  1. Ghahramani, A., I. Yoshiharu, and **S. M. Mudd** (2012), Field experiments constraining the probability distribution of particle travel distances during natural rainstorms on different slope gradients, *Earth Surface Processes and Landforms*, *37*(5), 473-485, [doi:10.1002/esp.2253](href{http://dx.doi.org/doi:10.1002/esp.2253).
 
-  1. Hobley, D. E. J., H. D. Sinclair, and **S. M. Mudd** (2012), Reconstruction of a major storm event from its geomorphic signature: The Ladakh floods, 6 August 2010, {\i{}Geology}, {\i{}40}(6), 483-486, [doi:10.1130/G32935.1](href{http://dx.doi.org/doi:10.1130/G32935.1).
+  1. Hobley, D. E. J., H. D. Sinclair, and **S. M. Mudd** (2012), Reconstruction of a major storm event from its geomorphic signature: The Ladakh floods, 6 August 2010, *Geology*, *40*(6), 483-486, [doi:10.1130/G32935.1](href{http://dx.doi.org/doi:10.1130/G32935.1).
 
-  1. Hurst, M. D., **S. M. Mudd**, R. Walcott, M. Attal, and K. Yoo (2012), Using hilltop curvature to derive the spatial distribution of erosion rates, {\i{}Journal of Geophysical Research-Earth Surface}, {\i{}117}, F02017, [doi:10.1029/2011JF002057](href{http://dx.doi.org/doi:10.1029/2011JF002057).
+  1. Hurst, M. D., **S. M. Mudd**, R. Walcott, M. Attal, and K. Yoo (2012), Using hilltop curvature to derive the spatial distribution of erosion rates, *Journal of Geophysical Research-Earth Surface*, *117*, F02017, [doi:10.1029/2011JF002057](href{http://dx.doi.org/doi:10.1029/2011JF002057).
 
-  1. Kirwan, M. L., and **S. M. Mudd** (2012), Response of salt-marsh carbon accumulation to climate change, {\i{}Nature}, {\i{}489}(7417), 550-553, [doi:10.1038/nature11440](href{http://dx.doi.org/doi:10.1038/nature11440).
+  1. Kirwan, M. L., and **S. M. Mudd** (2012), Response of salt-marsh carbon accumulation to climate change, *Nature*, *489*(7417), 550-553, [doi:10.1038/nature11440](href{http://dx.doi.org/doi:10.1038/nature11440).
 
 
 ##2011
  
  
-  1. Hobley, D. E. J., H. D. Sinclair, **S. M. Mudd**, and P. A. Cowie (2011), Field calibration of sediment flux dependent river incision, {\i{}Journal of Geophysical Research-Earth Surface}, {\i{}116}, F04017, [doi:10.1029/2010JF001935](href{http://dx.doi.org/doi:10.1029/2010JF001935).
+  1. Hobley, D. E. J., H. D. Sinclair, **S. M. Mudd**, and P. A. Cowie (2011), Field calibration of sediment flux dependent river incision, *Journal of Geophysical Research-Earth Surface*, *116*, F04017, [doi:10.1029/2010JF001935](href{http://dx.doi.org/doi:10.1029/2010JF001935).
 
-  1. D'Alpaos, A., **S. M. Mudd**, and L. Carniello (2011), Dynamic response of marshes to perturbations in suspended sediment concentrations and rates of relative sea level rise, {\i{}Journal of Geophysical Research-Earth Surface}, {\i{}116}, F04020, [doi:10.1029/2011JF002093](href{http://dx.doi.org/doi:10.1029/2011JF002093).
+  1. D'Alpaos, A., **S. M. Mudd**, and L. Carniello (2011), Dynamic response of marshes to perturbations in suspended sediment concentrations and rates of relative sea level rise, *Journal of Geophysical Research-Earth Surface*, *116*, F04020, [doi:10.1029/2011JF002093](href{http://dx.doi.org/doi:10.1029/2011JF002093).
 
-  1. Yoo, K., B. Weinman, **S. M. Mudd**, M. Hurst, M. Attal, and K. Maher (2011), Evolution of hillslope soils: The geomorphic theater and the geochemical play, {\i{}Applied Geochemistry}, {\i{}26}, S149-S153, [doi:10.1016/j.apgeochem.2011.03.054](href{http://dx.doi.org/doi:10.1016/j.apgeochem.2011.03.054).
+  1. Yoo, K., B. Weinman, **S. M. Mudd**, M. Hurst, M. Attal, and K. Maher (2011), Evolution of hillslope soils: The geomorphic theater and the geochemical play, *Applied Geochemistry*, *26*, S149-S153, [doi:10.1016/j.apgeochem.2011.03.054](href{http://dx.doi.org/doi:10.1016/j.apgeochem.2011.03.054).
 
-  1. **Mudd, S. M.** (2011), The life and death of salt marshes in response to anthropogenic disturbance of sediment supply, {\i{}Geology}, {\i{}39}(5), 511-512, [doi:10.1130/focus052011.1](href{http://dx.doi.org/doi:10.1130/focus052011.1).
+  1. **Mudd, S. M.** (2011), The life and death of salt marshes in response to anthropogenic disturbance of sediment supply, *Geology*, *39*(5), 511-512, [doi:10.1130/focus052011.1](href{http://dx.doi.org/doi:10.1130/focus052011.1).
 
 
 ##2010
  
  
-  1. **Mudd, S. M.**, A. D'Alpaos, and J. T. Morris (2010), How does vegetation affect sedimentation on tidal marshes? Investigating particle capture and hydrodynamic controls on biologically mediated sedimentation, {\i{}Journal of Geophysical Research-Earth Surface}, {\i{}115}, F03029, [doi:10.1029/2009JF001566](href{http://dx.doi.org/doi:10.1029/2009JF001566).
+  1. **Mudd, S. M.**, A. D'Alpaos, and J. T. Morris (2010), How does vegetation affect sedimentation on tidal marshes? Investigating particle capture and hydrodynamic controls on biologically mediated sedimentation, *Journal of Geophysical Research-Earth Surface*, *115*, F03029, [doi:10.1029/2009JF001566](href{http://dx.doi.org/doi:10.1029/2009JF001566).
 
-  1. Gabet, E. J., and **S. M. Mudd** (2010), Bedrock erosion by root fracture and tree throw: A coupled biogeomorphic model to explore the humped soil production function and the persistence of hillslope soils, {\i{}Journal of Geophysical Research-Earth Surface}, {\i{}115}, F04005, [doi:10.1029/2009JF001526](href{http://dx.doi.org/doi:10.1029/2009JF001526).
+  1. Gabet, E. J., and **S. M. Mudd** (2010), Bedrock erosion by root fracture and tree throw: A coupled biogeomorphic model to explore the humped soil production function and the persistence of hillslope soils, *Journal of Geophysical Research-Earth Surface*, *115*, F04005, [doi:10.1029/2009JF001526](href{http://dx.doi.org/doi:10.1029/2009JF001526).
 
-  1. Kirwan, M. L., G. R. Guntenspergen, A. D'Alpaos, J. T. Morris, **S. M. Mudd**, and S. Temmerman (2010), Limits on the adaptability of coastal marshes to rising sea level, {\i{}Geophysical Research Letters}, {\i{}37}, L23401, [doi:10.1029/2010GL045489](href{http://dx.doi.org/doi:10.1029/2010GL045489).
+  1. Kirwan, M. L., G. R. Guntenspergen, A. D'Alpaos, J. T. Morris, **S. M. Mudd**, and S. Temmerman (2010), Limits on the adaptability of coastal marshes to rising sea level, *Geophysical Research Letters*, *37*, L23401, [doi:10.1029/2010GL045489](href{http://dx.doi.org/doi:10.1029/2010GL045489).
 
-  1. Dunne, T., D. V. Malmon, and **S. M. Mudd** (2010), A rain splash transport equation assimilating field and laboratory measurements, {\i{}Journal of Geophysical Research-Earth Surface}, {\i{}115}, F01001, [doi:10.1029/2009JF001302](href{http://dx.doi.org/doi:10.1029/2009JF001302).
+  1. Dunne, T., D. V. Malmon, and **S. M. Mudd** (2010), A rain splash transport equation assimilating field and laboratory measurements, *Journal of Geophysical Research-Earth Surface*, *115*, F01001, [doi:10.1029/2009JF001302](href{http://dx.doi.org/doi:10.1029/2009JF001302).
 
-  1. **Mudd, S. M.**, and K. Yoo (2010), Reservoir theory for studying the geochemical evolution of soils, {\i{}Journal of Geophysical Research-Earth Surface}, {\i{}115}, F03030, [doi:10.1029/2009JF001591](href{http://dx.doi.org/doi:10.1029/2009JF001591).
+  1. **Mudd, S. M.**, and K. Yoo (2010), Reservoir theory for studying the geochemical evolution of soils, *Journal of Geophysical Research-Earth Surface*, *115*, F03030, [doi:10.1029/2009JF001591](href{http://dx.doi.org/doi:10.1029/2009JF001591).
 
 
 ##2009
  
  
-  1. Yoo, K., **S. M. Mudd**, J. Sanderman, R. Amundson, and A. Blum (2009), Spatial patterns and controls of soil chemical weathering rates along a transient hillslope, {\i{}Earth and Planetary Science Letters}, {\i{}288}(1-2), 184-193, [doi:10.1016/j.epsl.2009.09.021](href{http://dx.doi.org/doi:10.1016/j.epsl.2009.09.021).
+  1. Yoo, K., **S. M. Mudd**, J. Sanderman, R. Amundson, and A. Blum (2009), Spatial patterns and controls of soil chemical weathering rates along a transient hillslope, *Earth and Planetary Science Letters*, *288*(1-2), 184-193, [doi:10.1016/j.epsl.2009.09.021](href{http://dx.doi.org/doi:10.1016/j.epsl.2009.09.021).
 
-  1. **Mudd, S. M.**, S. M. Howell, and J. T. Morris (2009), Impact of dynamic feedbacks between sedimentation, sea-level rise, and biomass production on near-surface marsh stratigraphy and carbon accumulation, {\i{}Estuarine Coastal and Shelf Science}, {\i{}82}(3), 377-389, [doi:10.1016/j.ecss.2009.01.028](href{http://dx.doi.org/doi:10.1016/j.ecss.2009.01.028).
+  1. **Mudd, S. M.**, S. M. Howell, and J. T. Morris (2009), Impact of dynamic feedbacks between sedimentation, sea-level rise, and biomass production on near-surface marsh stratigraphy and carbon accumulation, *Estuarine Coastal and Shelf Science*, *82*(3), 377-389, [doi:10.1016/j.ecss.2009.01.028](href{http://dx.doi.org/doi:10.1016/j.ecss.2009.01.028).
 
-  1. Gabet, E. J., and **S. M. Mudd** (2009), A theoretical model coupling chemical weathering rates with denudation rates, {\i{}Geology}, {\i{}37}(2), 151-154, [doi:10.1130/G25270A.1](href{http://dx.doi.org/doi:10.1130/G25270A.1).
+  1. Gabet, E. J., and **S. M. Mudd** (2009), A theoretical model coupling chemical weathering rates with denudation rates, *Geology*, *37*(2), 151-154, [doi:10.1130/G25270A.1](href{http://dx.doi.org/doi:10.1130/G25270A.1).
 
-  1. Bo, S., M. J. Siegert, **S. M. Mudd**, D. Sugden, S. Fujita, C. Xiangbin, J. Yunyun, T. Xueyuan, and L. Yuansheng (2009), The Gamburtsev mountains and the origin and early evolution of the Antarctic Ice Sheet, {\i{}Nature}, {\i{}459}(7247), 690-693, [doi:10.1038/nature08024](href{http://dx.doi.org/doi:10.1038/nature08024).
+  1. Bo, S., M. J. Siegert, **S. M. Mudd**, D. Sugden, S. Fujita, C. Xiangbin, J. Yunyun, T. Xueyuan, and L. Yuansheng (2009), The Gamburtsev mountains and the origin and early evolution of the Antarctic Ice Sheet, *Nature*, *459*(7247), 690-693, [doi:10.1038/nature08024](href{http://dx.doi.org/doi:10.1038/nature08024).
 
 
 ##2008
  
  
-  1. Yoo, K., and **S. M. Mudd** (2008b), Toward process-based modeling of geochemical soil formation across diverse landforms: A new mathematical framework, {\i{}Geoderma}, {\i{}146}(1-2), 248-260, [doi:10.1016/j.geoderma.2008.05.029](href{http://dx.doi.org/doi:10.1016/j.geoderma.2008.05.029).
+  1. Yoo, K., and **S. M. Mudd** (2008b), Toward process-based modeling of geochemical soil formation across diverse landforms: A new mathematical framework, *Geoderma*, *146*(1-2), 248-260, [doi:10.1016/j.geoderma.2008.05.029](href{http://dx.doi.org/doi:10.1016/j.geoderma.2008.05.029).
 
-  1. Yoo, K., and **S. M. Mudd** (2008a), Discrepancy between mineral residence time and soil age: Implications for the interpretation of chemical weathering rates, {\i{}Geology}, {\i{}36}(1), 35-38, [doi:10.1130/G24285A.1](href{http://dx.doi.org/doi:10.1130/G24285A.1).
+  1. Yoo, K., and **S. M. Mudd** (2008a), Discrepancy between mineral residence time and soil age: Implications for the interpretation of chemical weathering rates, *Geology*, *36*(1), 35-38, [doi:10.1130/G24285A.1](href{http://dx.doi.org/doi:10.1130/G24285A.1).
 
 
 ##2007
  
  
+  1. **Mudd, S. M.** (2007), Reply to 'Comment on 'Investigation of the hydrodynamics of flash floods in ephemeral channels: Scaling analysis and simulation using a shock-capturing flow model incorporating the effects of transmission losses' by **S.M. Mudd**, 2006 (Journal of Hydrology) 324, 65-79\uc0\u8221{} by Cao and Yue, *Journal of Hydrology*, *336*(1-2), 226-230, [doi:10.1016/j.jhydrol.2006.11.008](href{http://dx.doi.org/doi:10.1016/j.jhydrol.2006.11.008).
 
-  1. Furbish, D. J., K. K. Hamner, M. Schmeeckle, M. N. Borosund, and **S. M. Mudd** (2007), Rain splash of dry sand revealed by high-speed imaging and sticky paper splash targets, {\i{}Journal of Geophysical Research-Earth Surface}, {\i{}112}(F1), F01001, [doi:10.1029/2006JF000498](href{http://dx.doi.org/doi:10.1029/2006JF000498).
+  1. Furbish, D. J., K. K. Hamner, M. Schmeeckle, M. N. Borosund, and **S. M. Mudd** (2007), Rain splash of dry sand revealed by high-speed imaging and sticky paper splash targets, *Journal of Geophysical Research-Earth Surface*, *112*(F1), F01001, [doi:10.1029/2006JF000498](href{http://dx.doi.org/doi:10.1029/2006JF000498).
 
-  1. **Mudd, S. M.**, and D. J. Furbish (2007), Responses of soil-mantled hillslopes to transient channel incision rates, {\i{}Journal of Geophysical Research-Earth Surface}, {\i{}112}(F3), F03S18, [doi:10.1029/2006JF000516](href{http://dx.doi.org/doi:10.1029/2006JF000516).
+  1. **Mudd, S. M.**, and D. J. Furbish (2007), Responses of soil-mantled hillslopes to transient channel incision rates, *Journal of Geophysical Research-Earth Surface*, *112*(F3), F03S18, [doi:10.1029/2006JF000516](href{http://dx.doi.org/doi:10.1029/2006JF000516).
 
+  1. Cao, Z., and Z. Yue (2007), Comment on 'Investigation of the hydrodynamics of flash floods in ephemeral channels: Scaling analysis and simulation using a shock-capturing flow model incorporating the effects of transmission losses\uc0\u8221{} by **S.M. Mudd**, 2006. Journal of Hydrology 324, 65-79, *Journal of Hydrology*, *336*(1-2), 222-225, [doi:10.1016/j.jhydrol.2006.11.022](href{http://dx.doi.org/doi:10.1016/j.jhydrol.2006.11.022).
 
 
 ##2006
  
  
-  1. **Mudd, S. M.**, and D. J. Furbish (2006), Using chemical tracers in hillslope soils to estimate the importance of chemical denudation under conditions of downslope sediment transport, {\i{}Journal of Geophysical Research-Earth Surface}, {\i{}111}(F2), F02021, [doi:10.1029/2005JF000343](href{http://dx.doi.org/doi:10.1029/2005JF000343).
+  1. **Mudd, S. M.**, and D. J. Furbish (2006), Using chemical tracers in hillslope soils to estimate the importance of chemical denudation under conditions of downslope sediment transport, *Journal of Geophysical Research-Earth Surface*, *111*(F2), F02021, [doi:10.1029/2005JF000343](href{http://dx.doi.org/doi:10.1029/2005JF000343).
 
-  1. Gabet, E. J., and **S. M. Mudd** (2006), The mobilization of debris flows from shallow landslides, {\i{}Geomorphology}, {\i{}74}(1-4), 207-218, [doi:10.1016/j.geomorph.2005.08.013](href{http://dx.doi.org/doi:10.1016/j.geomorph.2005.08.013).
+  1. Gabet, E. J., and **S. M. Mudd** (2006), The mobilization of debris flows from shallow landslides, *Geomorphology*, *74*(1-4), 207-218, [doi:10.1016/j.geomorph.2005.08.013](href{http://dx.doi.org/doi:10.1016/j.geomorph.2005.08.013).
 
-  1. **Mudd, S. M.** (2006), Investigation of the hydrodynamics of flash floods in ephemeral channels: Scaling analysis and simulation using a shock-capturing flow model incorporating the effects of transmission losses, {\i{}Journal of Hydrology}, {\i{}324}(1-4), 65-79, [doi:10.1016/j.jhydrol.2005.09.012](href{http://dx.doi.org/doi:10.1016/j.jhydrol.2005.09.012).
+  1. **Mudd, S. M.** (2006), Investigation of the hydrodynamics of flash floods in ephemeral channels: Scaling analysis and simulation using a shock-capturing flow model incorporating the effects of transmission losses, *Journal of Hydrology*, *324*(1-4), 65-79, [doi:10.1016/j.jhydrol.2005.09.012](href{http://dx.doi.org/doi:10.1016/j.jhydrol.2005.09.012).
 
-    comment: Cao, Z., and Z. Yue (2007), Comment on 'Investigation of the hydrodynamics of flash floods in ephemeral channels: Scaling analysis and simulation using a shock-capturing flow model incorporating the effects of transmission losses\uc0\u8221{} by **S.M. Mudd**, 2006. Journal of Hydrology 324, 65-79, {\i{}Journal of Hydrology}, {\i{}336}(1-2), 222-225, [doi:10.1016/j.jhydrol.2006.11.022](href{http://dx.doi.org/doi:10.1016/j.jhydrol.2006.11.022).
-
-    reply: **Mudd, S. M.** (2007), Reply to 'Comment on 'Investigation of the hydrodynamics of flash floods in ephemeral channels: Scaling analysis and simulation using a shock-capturing flow model incorporating the effects of transmission losses' by **S.M. Mudd**, 2006 (Journal of Hydrology) 324, 65-79\uc0\u8221{} by Cao and Yue, {\i{}Journal of Hydrology}, {\i{}336}(1-2), 226-230, [doi:10.1016/j.jhydrol.2006.11.008](href{http://dx.doi.org/doi:10.1016/j.jhydrol.2006.11.008).
-
-  1. D'Alpaos, A., S. Lanzoni, **S. M. Mudd**, and S. Fagherazzi (2006), Modeling the influence of hydroperiod and vegetation on the cross-sectional formation of tidal channels, {\i{}Estuarine Coastal and Shelf Science}, {\i{}69}(3-4), 311-324, [doi:10.1016/j.ecss.2006.05.002](href{http://dx.doi.org/doi:10.1016/j.ecss.2006.05.002).
+  1. D'Alpaos, A., S. Lanzoni, **S. M. Mudd**, and S. Fagherazzi (2006), Modeling the influence of hydroperiod and vegetation on the cross-sectional formation of tidal channels, *Estuarine Coastal and Shelf Science*, *69*(3-4), 311-324, [doi:10.1016/j.ecss.2006.05.002](href{http://dx.doi.org/doi:10.1016/j.ecss.2006.05.002).
 
 
 ##2005
  
  
-  1. **Mudd, S. M.**, and D. J. Furbish (2005), Lateral migration of hillcrests in response to channel incision in soil-mantled landscapes, {\i{}Journal of Geophysical Research-Earth Surface}, {\i{}110}(F4), F04026, [doi:10.1029/2005JF000313](href{http://dx.doi.org/doi:10.1029/2005JF000313).
+  1. **Mudd, S. M.**, and D. J. Furbish (2005), Lateral migration of hillcrests in response to channel incision in soil-mantled landscapes, *Journal of Geophysical Research-Earth Surface*, *110*(F4), F04026, [doi:10.1029/2005JF000313](href{http://dx.doi.org/doi:10.1029/2005JF000313).
 
 
 ##2004
  
  
-  1. **Mudd, S. M.**, S. Fagherazzi, J. T. Morris, and D. J. Furbish (2004), Flow, sedimentation, and biomass production on a vegetated salt marsh in South Carolina: Toward a predictive model of marsh morphologic and ecologic evolution, edited by S. Fagherazzi, M. Marani, and L. K. Blum, {\i{}Ecogeomorphology of Tidal Marshes}, {\i{}59}, 165-188.\
+  1. **Mudd, S. M.**, S. Fagherazzi, J. T. Morris, and D. J. Furbish (2004), Flow, sedimentation, and biomass production on a vegetated salt marsh in South Carolina: Toward a predictive model of marsh morphologic and ecologic evolution, edited by S. Fagherazzi, M. Marani, and L. K. Blum, *Ecogeomorphology of Tidal Marshes*, *59*, 165-188.\
 
-  1. **Mudd, S. M.**, and D. J. Furbish (2004), Influence of chemical denudation on hillslope morphology, {\i{}Journal of Geophysical Research-Earth Surface}, {\i{}109}(F2), F02001, [doi:10.1029/2003JF000087](href{http://dx.doi.org/doi:10.1029/2003JF000087).
+  1. **Mudd, S. M.**, and D. J. Furbish (2004), Influence of chemical denudation on hillslope morphology, *Journal of Geophysical Research-Earth Surface*, *109*(F2), F02001, [doi:10.1029/2003JF000087](href{http://dx.doi.org/doi:10.1029/2003JF000087).
 
