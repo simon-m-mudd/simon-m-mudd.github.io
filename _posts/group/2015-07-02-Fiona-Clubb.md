@@ -2,7 +2,7 @@
 layout: article
 title: "Fiona J. Clubb"
 categories: group
-excerpt: "F.J. Clubb: Detection of process transitions."
+excerpt: "PhD student, detection of geomorphic process transitions."
 tags: [students, group]
 modified: 2015-07-30
 image:
@@ -18,12 +18,17 @@ Fiona J. Clubb
 
 ## Research
 
-Fiona is doing some research.
+  Fiona is using [lidar](https://en.wikipedia.org/wiki/Lidar) data to look for topographic signatures of geomorhpic process transitions in eroding landscapes. 
+  
+  You can find out more on her [personal website](http://www.geos.ed.ac.uk/homes/s0923330/).
 
 ## Publications
 
-She is also publishing papers.
+  Google Scholar: [Fiona J. Clubb](https://scholar.google.co.uk/citations?user=LnCvUwwAAAAJ&hl=en)
 
 ## Software
 
-She also wrote some software.
+  Fiona has written code to detect channel heads using a processed-based strategy, you can find the [Dreich algorith](http://csdms.colorado.edu/wiki/Model:DrEICH_algorithm) on CSDMS. 
+ 
+  She is one of the main developers of the [LSDTopoTools](http://lsdtopotools.github.io/) software package: you can search for his contributions using our [automated software tracking](http://www.geos.ed.ac.uk/~s0675405/LSD_Docs/index.html); his contributions are under author = FJC. 
+

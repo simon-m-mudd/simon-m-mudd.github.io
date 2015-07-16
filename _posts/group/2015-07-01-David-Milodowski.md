@@ -2,7 +2,7 @@
 layout: article
 title: "David T. Milodowski"
 categories: group
-excerpt: "D.T. Milodowski: Coupling biota and geomorphology"
+excerpt: "PhD student, coupling biota and geomorphology"
 tags: [students, group]
 modified: 2015-07-30
 image:
@@ -18,13 +18,15 @@ David T. Milodowski
 
 ## Research
 
-Dave is doing some research.
+  Dave is using [lidar](https://en.wikipedia.org/wiki/Lidar) data to study the relasionships between geomorphology, ecology and soil production. For more information visit his [personal website](http://www.geos.ed.ac.uk/homes/s1143956/).
 
 ## Publications
 
-He is also publishing papers.
+  Google Scholar: [David T. Milodowski](https://scholar.google.co.uk/citations?user=ay1R3UgAAAAJ&hl=en)
 
 ## Software
 
-He also wrote some software.
+  Dave is the lead developer of a tool using the divergence of surface normals to find bedorck outcrops. You can get this [roughness tool](http://csdms.colorado.edu/wiki/Model:SurfaceRoughness) on CSDMS. 
+
+  He is one of the main developers of the [LSDTopoTools](http://lsdtopotools.github.io/) software package: you can search for his contributions using our [automated software tracking](http://www.geos.ed.ac.uk/~s0675405/LSD_Docs/index.html); his contributions are under author = DTM. 
 
