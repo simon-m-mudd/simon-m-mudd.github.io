@@ -12,7 +12,7 @@ image:
 share: false
 ---
 
-The links on this page are to the article of record. Not all of them are open access. To access copies of the papers you can go to:
+The links on this page are to the article of record (click on the doi). Not all of them are open access. To access copies of the papers you can go to:
 
 [google scholar: Simon M. Mudd](http://scholar.google.co.uk/citations?user=9iv6l7wAAAAJ&hl=en)
 
@@ -44,9 +44,9 @@ The links on this page are to the article of record. Not all of them are open ac
 
   **39.** Clubb, F. J., **S. M. Mudd**, D. T. Milodowski, M. D. Hurst, and L. J. Slater (2014), Objective extraction of channel heads from high-resolution topographic data, *Water Resources Research*, *50*(5), 4283-4304, [doi:10.1002/2013WR015167](http://dx.doi.org/doi:10.1002/2013WR015167).
 
-  <sub>Passalacqua, P., and E. Foufoula-Georgiou (2015), Comment on 'Objective extraction of channel heads from high-resolution topographic data\uc0\u8221{} by Fiona J. Clubb et al., *Water Resour. Res.*, *51*(2), 1372-1376, [doi:10.1002/2014WR016412](http://dx.doi.org/doi:10.1002/2014WR016412).</sub>
+  <sub>Passalacqua, P., and E. Foufoula-Georgiou (2015), Comment on 'Objective extraction of channel heads from high-resolution topographic data' by Fiona J. Clubb et al., *Water Resour. Res.*, *51*(2), 1372-1376, [doi:10.1002/2014WR016412](http://dx.doi.org/doi:10.1002/2014WR016412).</sub>
 
-  <sub>Clubb, F., S. Mudd, and D. Milodowski (2015), Reply to comment by P. Passalacqua and E. Foufoula-Georgiou on 'Objective extraction of channel heads from high-resolution topographic data,\uc0\u8221{} *Water Resour. Res.*, *51*(2), 1377-1379, [doi:10.1002/2014WR016603](http://dx.doi.org/doi:10.1002/2014WR016603).</sub>
+  <sub>Clubb, F., S. Mudd, and D. Milodowski (2015), Reply to comment by P. Passalacqua and E. Foufoula-Georgiou on 'Objective extraction of channel heads from high-resolution topographic data,' *Water Resour. Res.*, *51*(2), 1377-1379, [doi:10.1002/2014WR016603](http://dx.doi.org/doi:10.1002/2014WR016603).</sub>
 
   **38.** Johnson, M. O., **S. M. Mudd**, B. Pillans, N. A. Spooner, L. K. Fifield, M. J. Kirkby, and M. Gloor (2014), Quantifying the rate and depth dependence of bioturbation based on optically-stimulated luminescence (OSL) dates and meteoric Be-10, *Earth Surface Processes and Landforms*, *39*(9), 1188-1196, [doi:10.1002/esp.3520](http://dx.doi.org/doi:10.1002/esp.3520).
 
@@ -60,7 +60,7 @@ The links on this page are to the article of record. Not all of them are open ac
  
   **35.** Hurst, M. D., **S. M. Mudd**, K. Yoo, M. Attal, and R. Walcott (2013b), Influence of lithology on hillslope morphology and response to tectonic forcing in the northern Sierra Nevada of California, *Journal of Geophysical Research-Earth Surface*, *118*(2), 832-851, [doi:10.1002/jgrf.20049](http://dx.doi.org/doi:10.1002/jgrf.20049).
 
-  **34.** **Mudd, S. M.**, K. Yoo, and E. J. Gabet (2013), 7.5 Influence of Chemical Weathering on Hillslope Forms, in *Treatise on Geomorphology*, edited by J. F. Shroder, pp. 56-65, Academic Press, San Diego.\
+  **34.** **Mudd, S. M.**, K. Yoo, and E. J. Gabet (2013), 7.5 Influence of Chemical Weathering on Hillslope Forms, in *Treatise on Geomorphology*, edited by J. F. Shroder, pp. 56-65, Academic Press, San Diego.
 
   **33.** Hoffmann, T., **S. M. Mudd**, K. van Oost, G. Verstraeten, G. Erkens, A. Lang, H. Middelkoop, J. Boyle, J. O. Kaplan, J. Willenbring and R. Aalto (2013), Short Communication: Humans and the missing C-sink: erosion and burial of soil carbon through time, *Earth Surface Dynamics*, *1*(1), 45-52, [doi:10.5194/esurf-1-45-2013](http://dx.doi.org/doi:10.5194/esurf-1-45-2013).
 
@@ -150,7 +150,7 @@ The links on this page are to the article of record. Not all of them are open ac
 
   **5.** **Mudd, S. M.** (2006), Investigation of the hydrodynamics of flash floods in ephemeral channels: Scaling analysis and simulation using a shock-capturing flow model incorporating the effects of transmission losses, *Journal of Hydrology*, *324*(1-4), 65-79, [doi:10.1016/j.jhydrol.2005.09.012](http://dx.doi.org/doi:10.1016/j.jhydrol.2005.09.012).
 
-  <sub>Cao, Z., and Z. Yue (2007), Comment on 'Investigation of the hydrodynamics of flash floods in ephemeral channels: Scaling analysis and simulation using a shock-capturing flow model incorporating the effects of transmission losses\uc0\u8221{} by **S.M. Mudd**, 2006. Journal of Hydrology 324, 65-79, *Journal of Hydrology*, *336*(1-2), 222-225, [doi:10.1016/j.jhydrol.2006.11.022](http://dx.doi.org/doi:10.1016/j.jhydrol.2006.11.022).</sub>
+  <sub>Cao, Z., and Z. Yue (2007), Comment on 'Investigation of the hydrodynamics of flash floods in ephemeral channels: Scaling analysis and simulation using a shock-capturing flow model incorporating the effects of transmission losses' by **S.M. Mudd**, 2006. Journal of Hydrology 324, 65-79, *Journal of Hydrology*, *336*(1-2), 222-225, [doi:10.1016/j.jhydrol.2006.11.022](http://dx.doi.org/doi:10.1016/j.jhydrol.2006.11.022).</sub>
   
   <sub>**Mudd, S. M.** (2007), Reply to 'Comment on 'Investigation of the hydrodynamics of flash floods in ephemeral channels: Scaling analysis and simulation using a shock-capturing flow model incorporating the effects of transmission losses' by **S.M. Mudd**, 2006 (Journal of Hydrology) 324, 65-79\uc0\u8221{} by Cao and Yue, *Journal of Hydrology*, *336*(1-2), 226-230, [doi:10.1016/j.jhydrol.2006.11.008](http://dx.doi.org/doi:10.1016/j.jhydrol.2006.11.008).</sub>
 
