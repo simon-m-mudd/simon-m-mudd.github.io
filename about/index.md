@@ -21,7 +21,9 @@ share: false
 
 <div class="tile">
   <h2 class="post-title">Vitae</h2>
-  <p class="post-excerpt">I am from Riverside, California. I then went to Berkeley, Santa Barbara, Tallahasse, and Nashville (<a href="http://nashville.about.com/od/historyandsites/a/NashHistXline2.htm">The Athens of the South</a>) for some degrees. NOAA kindly provided funding for me to stay in Nashville for a year after my PhD. Then I moved to Edinburgh (<a href="http://www.ewht.org.uk/learning/Athens/why-athens-of-the-north">The Athens of the North</a>) in 2007. I can now understand Glaswegans (including <a=href="http://www.geos.ed.ac.uk/homes/s0675405/">Stuart Grieve</a>) and my children rhyme 'food' with 'good'. 
+  <p class="post-excerpt">I am from Riverside, California. I then went to Berkeley, Santa Barbara, Tallahasse, and Nashville (<a href="http://nashville.about.com/od/historyandsites/a/NashHistXline2.htm">The Athens of the South</a>) for some degrees. 
+  NOAA kindly provided funding for me to stay in Nashville for a year after my PhD. 
+  Then I moved to Edinburgh (<a href="http://www.ewht.org.uk/learning/Athens/why-athens-of-the-north">The Athens of the North</a>) in 2007, and as a result my children rhyme 'food' with 'good'. 
   
 </div><!-- /.tile -->
 
