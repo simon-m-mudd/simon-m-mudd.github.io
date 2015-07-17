@@ -3,11 +3,11 @@ layout: archive
 title: "Group"
 date: 2015-07-15
 modified:
-excerpt: "Group members."
+excerpt: "Current and former group members."
 tags: []
 image:
   feature:
-  teaser:
+  teaser: Default_400x250.jpg
 ---
 
 <div class="tiles">
