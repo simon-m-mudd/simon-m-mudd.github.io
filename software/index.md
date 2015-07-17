@@ -7,7 +7,8 @@ excerpt: "Software."
 tags: []
 image:
   feature:
-  teaser:
+  image-credit: Roughness_800x300.jpg
+  teaser: Transient_400x200.jpg
 ---
 
 <div class="tiles">

@@ -2,7 +2,7 @@
 layout: article
 title: "David T. Milodowski"
 categories: group
-excerpt: "PhD student, coupling biota and geomorphology"
+excerpt: "PhD student, coupling biota and geomorphology."
 tags: [students, group]
 modified: 2015-07-30
 image:

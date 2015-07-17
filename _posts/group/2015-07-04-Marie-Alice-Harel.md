@@ -2,7 +2,7 @@
 layout: article
 title: "Marie-Alice Harel"
 categories: group
-excerpt: "Post-doc, climatic and tectonic controls on channel steepness"
+excerpt: "Post-doc, climatic and tectonic controls on channel steepness."
 tags: [postdocs, group]
 modified: 2015-07-30
 image:

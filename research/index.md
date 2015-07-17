@@ -6,8 +6,8 @@ modified:
 excerpt: "Research projects."
 tags: []
 image:
-  feature:
-  teaser:
+  feature: Dolomites_1500x500
+  teaser: ChiFia_400x250.jpg
 ---
 
 <div class="tiles">
