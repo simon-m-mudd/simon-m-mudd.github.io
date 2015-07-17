@@ -6,7 +6,7 @@ excerpt: "Alumni, Quantifying transient landscapes with lidar."
 tags: [alumni, group]
 modified: 2015-07-30
 image:
-  feature: 1600x800.gif
+  feature: Default_1500x350.jpg
   teaser: Martin_400x250.jpg
 ads: false
 share: false

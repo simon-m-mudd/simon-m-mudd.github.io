@@ -6,8 +6,8 @@ excerpt: "Post-doc, climatic and tectonic controls on channel steepness"
 tags: [postdocs, group]
 modified: 2015-07-30
 image:
-  feature: 1600x800.gif
-  teaser: MarieAlice_400x250.jpg
+  feature: Default_1500x350.jpg
+  teaser: Default_400x250.jpg
 ads: false
 share: false
 ---

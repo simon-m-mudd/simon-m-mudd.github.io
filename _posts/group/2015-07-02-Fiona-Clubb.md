@@ -6,7 +6,7 @@ excerpt: "PhD student, detection of geomorphic process transitions."
 tags: [students, group]
 modified: 2015-07-30
 image:
-  feature: 1600x800.gif
+  feature: Default_1500x350.jpg
   teaser: Fiona_400x250.jpg
 ads: false
 share: false

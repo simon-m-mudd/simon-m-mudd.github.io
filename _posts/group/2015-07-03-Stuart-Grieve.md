@@ -6,7 +6,7 @@ excerpt: "PhD student, hillslope metrics for detecting landsliding and sediment 
 tags: [students, group]
 modified: 2015-07-30
 image:
-  feature: 1600x800.gif
+  feature: Default_1500x350.jpg
   teaser: Stuart_400x250.jpg
 ads: false
 share: false
