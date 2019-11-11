@@ -26,6 +26,19 @@ The links on this page are to the article of record (click on the doi). Not all 
 
 ##2019 
 
+  **70.** Bernard, T., Sinclair, H. D., Gailleton, B., **Mudd, S. M.**, and Ford, M. (2019). Lithological control on the post-orogenic topography and erosion history of the Pyrenees. *Earth and Planetary Science Letters*, 518, 53–66. [doi:10.1016/j.epsl.2019.04.034](https://doi.org/10.1016/j.epsl.2019.04.034)
+
+  **69.** Evans, D. L., Quinton, J. N., Tye, A. M., Rodés, Á., Davies, J. A. C., **Mudd, S. M.**, and Quine, T. A. (2019). Arable soil formation and erosion: A hillslope-based cosmogenic nuclide study in the United Kingdom. *SOIL*, 5(2), 253–263. [doi:10.5194/soil-5-253-2019](https://doi.org/10.5194/soil-5-253-2019)
+
+  **68.** Gailleton, B., **Mudd, S. M.**, Clubb, F. J., Peifer, D., and Hurst, M. D. (2019). A segmentation approach for the reproducible extraction and quantification of knickpoints from river long profiles. *Earth Surface Dynamics*, 7(1), 211–230. [doi:10.5194/esurf-7-211-2019](https://doi.org/10.5194/esurf-7-211-2019)
+
+  **67.** Goodwin, G. C. H., and **Mudd, S. M.** (2019). High Platform Elevations Highlight the Role of Storms and Spring Tides in Salt Marsh Evolution. *Frontiers in Environmental Science*, 7, 62. [doi:10.3389/fenvs.2019.00062](https://doi.org/10.3389/fenvs.2019.00062)
+
+  **66.** Hurst, M. D., Grieve, S. W. D., Clubb, F. J., and **Mudd, S. M.** (2019). Detection of channel-hillslope coupling along a tectonic gradient. *Earth and Planetary Science Letters*, 522, 30–39. [doi:10.1016/j.epsl.2019.06.018](https://doi.org/10.1016/j.epsl.2019.06.018)
+
+  **65.** Sinclair, H. D., Stuart, F. M., **Mudd, S. M.**, McCann, L., and Tao, Z. (2019). Detrital cosmogenic Ne-21 records decoupling of source-to-sink signals by sediment storage and recycling in Miocene to present rivers of the Great Plains, Nebraska, USA. *Geology*, 47(1), 3–6. [doi:10.1130/G45391.1](https://doi.org/10.1130/G45391.1)
+
+  **64.** Strong, C. M., Attal, M., **Mudd, S. M.**, and Sinclair, H. D. (2019). Lithological control on the geomorphic evolution of the Shillong Plateau in Northeast India. *Geomorphology*, 330, 133–150. [doi:10.1016/j.geomorph.2019.01.016](https://doi.org/10.1016/j.geomorph.2019.01.016)
 
 
 ##2018 
