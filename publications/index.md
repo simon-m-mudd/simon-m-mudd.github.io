@@ -24,7 +24,7 @@ The links on this page are to the article of record (click on the doi). Not all 
  
  
 
-##2019 
+## 2019 
 
   **70.** Bernard, T., Sinclair, H. D., Gailleton, B., **Mudd, S. M.**, and Ford, M. (2019). Lithological control on the post-orogenic topography and erosion history of the Pyrenees. *Earth and Planetary Science Letters*, 518, 53–66. [doi:10.1016/j.epsl.2019.04.034](https://doi.org/10.1016/j.epsl.2019.04.034)
 
@@ -41,7 +41,7 @@ The links on this page are to the article of record (click on the doi). Not all 
   **64.** Strong, C. M., Attal, M., **Mudd, S. M.**, and Sinclair, H. D. (2019). Lithological control on the geomorphic evolution of the Shillong Plateau in Northeast India. *Geomorphology*, 330, 133–150. [doi:10.1016/j.geomorph.2019.01.016](https://doi.org/10.1016/j.geomorph.2019.01.016)
 
 
-##2018 
+## 2018 
 
   **63.** Babault, J., Viaplana-Muzas, M., Legrand, X., Van den Driessche, J., Gonzalez-Quijano, M., and **Mudd, S. M.** (2018). Source-to-sink constraints on tectonic and sedimentary evolution of the western Central Range and Cenderawasih Bay (Indonesia). *Journal of Asian Earth Sciences*, 156, 265–287. [doi:10.1016/j.jseaes.2018.02.004](https://doi.org/10.1016/j.jseaes.2018.02.004)
  
@@ -60,7 +60,7 @@ The links on this page are to the article of record (click on the doi). Not all 
   **56.** Wang, X., Yoo, K., **Mudd, S. M.**, Weinman, B., Gutknecht, J., & Gabet, E. J. (2018). Storage and export of soil carbon and mineral surface area along an erosional gradient in the Sierra Nevada, California. *Geoderma*, 321, 151–163. [doi:10.1016/j.geoderma.2018.02.008](https://doi.org/10.1016/j.geoderma.2018.02.008)
 
 
-##2017 
+## 2017 
 
   **55.** Clubb, F. J., Mudd, S. M., Milodowski, D. T., Valters, D. A., Slater, L. J., Hurst, M. D., & Limaye, A. B. (2017). Geomorphometric delineation of floodplains and terraces from objectively defined topographic thresholds. Earth Surface Dynamics, 5(3), 369–385. [doi:10.5194/esurf-5-369-2017](https://doi.org/10.5194/esurf-5-369-2017)
 
@@ -69,7 +69,7 @@ The links on this page are to the article of record (click on the doi). Not all 
   **53.** Sinclair, H. D., **Mudd, S. M.**, Dingle, E., Hobley, D., Robinson, R., & Walcott, R. (2017). Squeezing river catchments through tectonics: Shortening and erosion across the Indus Valley, NW Himalaya. *Bulletin of the Geological Society of America*, 129(1–2), 203–217. [doi:doi.org/10.1130/B31435.1](https://doi.org/10.1130/B31435.1)
 
 
-##2016 
+## 2016 
  
 
   **52.** **Mudd, S. M.**, & Fagherazzi, S. (2016). Salt Marsh Ecosystems: Tidal Flow, Vegetation, and Carbon Dynamics, in *Biogeoscience Approach to Ecosystems*, edited by E. A. Johnson and Y. E. Martin, Eds.. Cambridge: Cambridge Univ Press.
@@ -87,7 +87,7 @@ The links on this page are to the article of record (click on the doi). Not all 
   **46.** Parker, R. N., Hales, T. C., **Mudd, S. M.**, Grieve, S. W. D., & Constantine, J. A. (2016). Colluvium supply in humid regions limits the frequency of storm-triggered landslides. *Scientific Reports*, 6. [doi:10.1038/srep34438](https://doi.org/10.1038/srep34438)
 
 
-##2015
+## 2015
  
  
   **45.** Devrani, R., V. Singh, **S. M. Mudd**, and H. D. Sinclair (2015), Prediction of flash-flood hazard impact from Himalayan river profiles, *Geophys. Res. Lett.*, 2015GL063784, [doi:10.1002/2015GL063784](http://dx.doi.org/doi:10.1002/2015GL063784).
@@ -101,7 +101,7 @@ The links on this page are to the article of record (click on the doi). Not all 
   **41.** Gabet, E. J., **S. M. Mudd**, D. T. Milodowski, K. Yoo, M. D. Hurst, and A. Dosseto (2015), Local topography and erosion rate control regolith thickness along a ridgeline in the Sierra Nevada, California, *Earth Surf. Process. Landforms*, n/a-n/a, [doi:10.1002/esp.3754](http://dx.doi.org/doi:10.1002/esp.3754).
 
 
-##2014
+## 2014
  
  
   **40.** **Mudd, S. M.** (2014), Slope Processes, *Oxford Bibliographies* [doi:10.1093/OBO/9780199874002-0083](http://www.oxfordbibliographies.com/view/document/obo-9780199874002/obo-9780199874002-0083.xml).
@@ -119,7 +119,7 @@ The links on this page are to the article of record (click on the doi). Not all 
   **36.** **Mudd, S. M.**, K. Yoo, and B. Weinman (2014b), Quantifying geomorphic controls on time in weathering systems, edited by J. Gaillardet, *Geochemistry of the Earth's Surface Ges-10*, *10*, 249-253, [doi:10.1016/j.proeps.2014.08.033](http://dx.doi.org/doi:10.1016/j.proeps.2014.08.033).
 
 
-##2013
+## 2013
  
  
   **35.** Hurst, M. D., **S. M. Mudd**, K. Yoo, M. Attal, and R. Walcott (2013b), Influence of lithology on hillslope morphology and response to tectonic forcing in the northern Sierra Nevada of California, *Journal of Geophysical Research-Earth Surface*, *118*(2), 832-851, [doi:10.1002/jgrf.20049](http://dx.doi.org/doi:10.1002/jgrf.20049).
@@ -131,7 +131,7 @@ The links on this page are to the article of record (click on the doi). Not all 
   **32.** Hurst, M. D., **S. M. Mudd**, M. Attal, and G. Hilley (2013a), Hillslopes Record the Growth and Decay of Landscapes, *Science*, *341*(6148), 868-871, [doi:10.1126/science.1241791](http://dx.doi.org/doi:10.1126/science.1241791).
 
 
-##2012
+## 2012
  
  
   **31.** Bilotta, G. S., M. Grove, and **S. M. Mudd** (2012), Assessing the significance of soil erosion, *Transactions of the Institute of British Geographers*, *37*(3), 342-345, [doi:10.1111/j.1475-5661.2011.00497.x](http://dx.doi.org/doi:10.1111/j.1475-5661.2011.00497.x).
@@ -149,7 +149,7 @@ The links on this page are to the article of record (click on the doi). Not all 
   **25.** Kirwan, M. L., and **S. M. Mudd** (2012), Response of salt-marsh carbon accumulation to climate change, *Nature*, *489*(7417), 550-553, [doi:10.1038/nature11440](http://dx.doi.org/doi:10.1038/nature11440).
 
 
-##2011
+## 2011
  
  
   **24.** Hobley, D. E. J., H. D. Sinclair, **S. M. Mudd**, and P. A. Cowie (2011), Field calibration of sediment flux dependent river incision, *Journal of Geophysical Research-Earth Surface*, *116*, F04017, [doi:10.1029/2010JF001935](http://dx.doi.org/doi:10.1029/2010JF001935).
@@ -161,7 +161,7 @@ The links on this page are to the article of record (click on the doi). Not all 
   **21.** **Mudd, S. M.** (2011), The life and death of salt marshes in response to anthropogenic disturbance of sediment supply, *Geology*, *39*(5), 511-512, [doi:10.1130/focus052011.1](http://dx.doi.org/doi:10.1130/focus052011.1).
 
 
-##2010
+## 2010
  
  
   **20.** **Mudd, S. M.**, A. D'Alpaos, and J. T. Morris (2010), How does vegetation affect sedimentation on tidal marshes? Investigating particle capture and hydrodynamic controls on biologically mediated sedimentation, *Journal of Geophysical Research-Earth Surface*, *115*, F03029, [doi:10.1029/2009JF001566](http://dx.doi.org/doi:10.1029/2009JF001566).
@@ -175,7 +175,7 @@ The links on this page are to the article of record (click on the doi). Not all 
   **16.** **Mudd, S. M.**, and K. Yoo (2010), Reservoir theory for studying the geochemical evolution of soils, *Journal of Geophysical Research-Earth Surface*, *115*, F03030, [doi:10.1029/2009JF001591](http://dx.doi.org/doi:10.1029/2009JF001591).
 
 
-##2009
+## 2009
  
  
   **15.** Yoo, K., **S. M. Mudd**, J. Sanderman, R. Amundson, and A. Blum (2009), Spatial patterns and controls of soil chemical weathering rates along a transient hillslope, *Earth and Planetary Science Letters*, *288*(1-2), 184-193, [doi:10.1016/j.epsl.2009.09.021](http://dx.doi.org/doi:10.1016/j.epsl.2009.09.021).
@@ -187,7 +187,7 @@ The links on this page are to the article of record (click on the doi). Not all 
   **12.** Bo, S., M. J. Siegert, **S. M. Mudd**, D. Sugden, S. Fujita, C. Xiangbin, J. Yunyun, T. Xueyuan, and L. Yuansheng (2009), The Gamburtsev mountains and the origin and early evolution of the Antarctic Ice Sheet, *Nature*, *459*(7247), 690-693, [doi:10.1038/nature08024](http://dx.doi.org/doi:10.1038/nature08024).
 
 
-##2008
+## 2008
  
  
   **11.** Yoo, K., and **S. M. Mudd** (2008b), Toward process-based modeling of geochemical soil formation across diverse landforms: A new mathematical framework, *Geoderma*, *146*(1-2), 248-260, [doi:10.1016/j.geoderma.2008.05.029](http://dx.doi.org/doi:10.1016/j.geoderma.2008.05.029).
@@ -195,7 +195,7 @@ The links on this page are to the article of record (click on the doi). Not all 
   **10.** Yoo, K., and **S. M. Mudd** (2008a), Discrepancy between mineral residence time and soil age: Implications for the interpretation of chemical weathering rates, *Geology*, *36*(1), 35-38, [doi:10.1130/G24285A.1](http://dx.doi.org/doi:10.1130/G24285A.1).
 
 
-##2007
+## 2007
  
  
 
@@ -205,7 +205,7 @@ The links on this page are to the article of record (click on the doi). Not all 
 
 
 
-##2006
+## 2006
  
  
   **7.** **Mudd, S. M.**, and D. J. Furbish (2006), Using chemical tracers in hillslope soils to estimate the importance of chemical denudation under conditions of downslope sediment transport, *Journal of Geophysical Research-Earth Surface*, *111*(F2), F02021, [doi:10.1029/2005JF000343](http://dx.doi.org/doi:10.1029/2005JF000343).
@@ -221,13 +221,13 @@ The links on this page are to the article of record (click on the doi). Not all 
   **4.** D'Alpaos, A., S. Lanzoni, **S. M. Mudd**, and S. Fagherazzi (2006), Modeling the influence of hydroperiod and vegetation on the cross-sectional formation of tidal channels, *Estuarine Coastal and Shelf Science*, *69*(3-4), 311-324, [doi:10.1016/j.ecss.2006.05.002](http://dx.doi.org/doi:10.1016/j.ecss.2006.05.002).
 
 
-##2005
+## 2005
  
  
   **3.** **Mudd, S. M.**, and D. J. Furbish (2005), Lateral migration of hillcrests in response to channel incision in soil-mantled landscapes, *Journal of Geophysical Research-Earth Surface*, *110*(F4), F04026, [doi:10.1029/2005JF000313](http://dx.doi.org/doi:10.1029/2005JF000313).
 
 
-##2004
+## 2004
  
  
   **2.** **Mudd, S. M.**, S. Fagherazzi, J. T. Morris, and D. J. Furbish (2004), Flow, sedimentation, and biomass production on a vegetated salt marsh in South Carolina: Toward a predictive model of marsh morphologic and ecologic evolution, edited by S. Fagherazzi, M. Marani, and L. K. Blum, *Ecogeomorphology of Tidal Marshes*, *59*, 165-188.\
