@@ -6,9 +6,10 @@ modified:
 excerpt: "Research projects."
 tags: []
 image:
-  feature: Dolomites_1500x500
+  feature: Dolomites_1500x500.jpg
   teaser: ChiFia_400x250.jpg
 ---
+
 
 <div class="tiles">
 {% for post in site.categories.research %}

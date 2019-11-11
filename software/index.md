@@ -6,7 +6,7 @@ modified:
 excerpt: "Software."
 tags: []
 image:
-  feature:
+  feature: Dolomites_1500x500.jpg
   image-credit: Roughness_800x300.jpg
   teaser: Transient_400x200.jpg
 ---

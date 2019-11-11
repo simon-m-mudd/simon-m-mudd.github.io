@@ -6,7 +6,7 @@ modified:
 excerpt:
 tags: []
 image:
-  feature:
+  feature: Dolomites_1500x500.jpg
   teaser:
   thumb:
 share: false
@@ -14,9 +14,9 @@ share: false
 
 The links on this page are to the article of record (click on the doi). Not all of them are open access. To access copies of the papers you can go to:
 
-[google scholar: Simon M. Mudd](http://scholar.google.co.uk/citations?user=9iv6l7wAAAAJ&hl=en)
-
 [![Simon M Mudd ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16(1).gif "OrcID")](https://orcid.org/0000-0002-1357-8501) [ORCiD:0000-0002-1357-8501 Simon M Mudd ](https://orcid.org/0000-0002-1357-8501)
+
+[google scholar: Simon M. Mudd](http://scholar.google.co.uk/citations?user=9iv6l7wAAAAJ&hl=en)
 
 [Edinburgh research explorer: Simon M. Mudd](http://www.research.ed.ac.uk/portal/en/persons/simon-mudd(597e4975-68c0-4175-8119-0d22d1438753).html)
 
