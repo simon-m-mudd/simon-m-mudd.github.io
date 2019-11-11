@@ -31,6 +31,21 @@ The links on this page are to the article of record (click on the doi). Not all 
 
 ##2018 
 
+  **63.** Babault, J., Viaplana-Muzas, M., Legrand, X., Van den Driessche, J., Gonzalez-Quijano, M., and **Mudd, S. M.** (2018). Source-to-sink constraints on tectonic and sedimentary evolution of the western Central Range and Cenderawasih Bay (Indonesia). *Journal of Asian Earth Sciences*, 156, 265–287. [doi:10.1016/j.jseaes.2018.02.004](https://doi.org/10.1016/j.jseaes.2018.02.004)
+ 
+  **62.** Codilean, A. T., Munack, H., Cohen, T. J., Saktura, W. M., Gray, A., and **Mudd, S. M.** (2018). OCTOPUS: An open cosmogenic isotope and luminescence database. *Earth System Science Data*, 10(4), 2123–2139. [doi:10.5194/essd-10-2123-2018](https://doi.org/10.5194/essd-10-2123-2018)
+
+  **61.** Eger, A., Yoo, K., Almond, P. C., Boitt, G., Larsen, I. J., Condron, L. M., … **Mudd, S. M.** (2018). Does soil erosion rejuvenate the soil phosphorus inventory? *Geoderma*, 332, 45–59. [doi:10.1016/j.geoderma.2018.06.021](https://doi.org/10.1016/j.geoderma.2018.06.021)
+
+  **60.** Goodwin, G. C. H., Mudd, S. M., & Clubb, F. J. (2018). Unsupervised detection of salt marsh platforms: A topographic method. *Earth Surface Dynamics*, 6(1), 239–255. [doi:10.5194/esurf-6-239-2018](https://doi.org/10.5194/esurf-6-239-2018)
+
+  **59.** Grieve, S. W. D., Hales, T. C., Parker, R. N., **Mudd, S. M.**, and Clubb, F. J. (2018). Controls on Zero-Order Basin Morphology. *Journal of Geophysical Research-Earth Surface*, 123(12), 3269–3291. [doi:10.1029/2017JF004453](https://doi.org/10.1029/2017JF004453)
+
+  **58.** **Mudd, S. M.**, Clubb, F. J., Gailleton, B., & Hurst, M. D. (2018). How concave are river channels? *Earth Surface Dynamics*, 6(2), 505–523. [doi:10.5194/esurf-6-505-2018](https://doi.org/10.5194/esurf-6-505-2018)
+
+  **57.** Preston, J., Hurst, M. D., **Mudd, S. M.**, Goodwin, G. C. H., Newton, A. J., & Dugmore, A. J. (2018). Sediment accumulation in embayments controlled by bathymetric slope and wave energy: Implications for beach formation and persistence. *Earth Surface Processes and Landforms*, 43(11), 2421–2434. [doi:doi.org/10.1002/esp.4405](https://doi.org/10.1002/esp.4405)
+
+  **56.** Wang, X., Yoo, K., **Mudd, S. M.**, Weinman, B., Gutknecht, J., & Gabet, E. J. (2018). Storage and export of soil carbon and mineral surface area along an erosional gradient in the Sierra Nevada, California. *Geoderma*, 321, 151–163. [doi:10.1016/j.geoderma.2018.02.008](https://doi.org/10.1016/j.geoderma.2018.02.008)
 
 
 ##2017 
