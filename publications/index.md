@@ -34,10 +34,19 @@ The links on this page are to the article of record (click on the doi). Not all 
 
 
 ##2017 
- 
+
+  **55.** Clubb, F. J., Mudd, S. M., Milodowski, D. T., Valters, D. A., Slater, L. J., Hurst, M. D., & Limaye, A. B. (2017). Geomorphometric delineation of floodplains and terraces from objectively defined topographic thresholds. Earth Surface Dynamics, 5(3), 369–385. [doi:10.5194/esurf-5-369-2017](https://doi.org/10.5194/esurf-5-369-2017)
+
+  **54.** **Mudd, S. M.** (2017). Detection of transience in eroding landscapes. *Earth Surface Processes and Landforms*, 42(1), 24–41. [doi:10.1002/esp.3923](https://doi.org/10.1002/esp.3923)
+
+  **53.** Sinclair, H. D., **Mudd, S. M.**, Dingle, E., Hobley, D., Robinson, R., & Walcott, R. (2017). Squeezing river catchments through tectonics: Shortening and erosion across the Indus Valley, NW Himalaya. *Bulletin of the Geological Society of America*, 129(1–2), 203–217. [doi:doi.org/10.1130/B31435.1](https://doi.org/10.1130/B31435.1)
+
+
  
 ##2016 
  
+
+  **52.** **Mudd, S. M.**, & Fagherazzi, S. (2016). Salt Marsh Ecosystems: Tidal Flow, Vegetation, and Carbon Dynamics, in *Biogeoscience Approach to Ecosystems*, edited by E. A. Johnson and Y. E. Martin, Eds.. Cambridge: Cambridge Univ Press.
 
   **51.** Clubb, F. J., **Mudd, S. M.**, Attal, M., Milodowski, D. T., & Grieve, S. W. D. (2016). The relationship between drainage density, erosion rate, and hilltop curvature: Implications for sediment transport processes. *Journal of Geophysical Research: Earth Surface*, 121(10), 1724–1745. [doi:10.1002/2015JF003747](https://doi.org/10.1002/2015JF003747)
 
