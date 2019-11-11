@@ -17,7 +17,7 @@ share: false
   <h2 class="post-title">University of Edinburgh</h2>
   <p class="post-excerpt">I am the Professor of Earth Surface Processes at the <a href="http://www.ed.ac.uk/home">University of Edinburgh</a>,
   in the <a href="http://www.ed.ac.uk/schools-departments/geosciences/">School of GeoSciences</a>.</p>
-  <p class="post-excerpt">When you put in professorial promotion paperwork at the <a href="http://www.ed.ac.uk/home">University of Edinburgh</a> you are actually allowed to name yur "personal chair", and I choses the title above since it sounded respectable and I was nervous I wouldn't be promoted. But I now regret not naming my position "Professor of Mudd".</p>
+  <p class="post-excerpt">When you put in professorial promotion paperwork at the <a href="http://www.ed.ac.uk/home">University of Edinburgh</a> you are actually allowed to name your "personal chair", and I chose the title above since it sounded respectable and I was nervous I wouldn't be promoted. But I now regret not naming my position "Professor of Mudd".</p>
 </div><!-- /.tile -->
 
 <div class="tile">
