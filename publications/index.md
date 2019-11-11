@@ -16,15 +16,14 @@ The links on this page are to the article of record (click on the doi). Not all 
 
 [google scholar: Simon M. Mudd](http://scholar.google.co.uk/citations?user=9iv6l7wAAAAJ&hl=en)
 
-[![Simon M Mudd ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16(1).gif "OrcID")](https://orcid.org/0000-0002-1357-8501)
+[![Simon M Mudd ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16(1).gif "OrcID")](https://orcid.org/0000-0002-1357-8501) [ORCiD:0000-0002-1357-8501 Simon M Mudd ](https://orcid.org/0000-0002-1357-8501)
 
 [Edinburgh research explorer: Simon M. Mudd](http://www.research.ed.ac.uk/portal/en/persons/simon-mudd(597e4975-68c0-4175-8119-0d22d1438753).html)
 
 {% include toc.html %}
  
  
- 
- 
+
 ##2019 
 
 
@@ -57,7 +56,6 @@ The links on this page are to the article of record (click on the doi). Not all 
   **53.** Sinclair, H. D., **Mudd, S. M.**, Dingle, E., Hobley, D., Robinson, R., & Walcott, R. (2017). Squeezing river catchments through tectonics: Shortening and erosion across the Indus Valley, NW Himalaya. *Bulletin of the Geological Society of America*, 129(1–2), 203–217. [doi:doi.org/10.1130/B31435.1](https://doi.org/10.1130/B31435.1)
 
 
- 
 ##2016 
  
 

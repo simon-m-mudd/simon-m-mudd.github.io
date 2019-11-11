@@ -15,13 +15,14 @@ share: false
 
 <div class="tile">
   <h2 class="post-title">University of Edinburgh</h2>
-  <p class="post-excerpt">I am a <a href="http://www.rif.org/">Reader</a> at the <a href="http://www.ed.ac.uk/home">University of Edinburgh</a>,
+  <p class="post-excerpt">I am the Professor of Earth Surface Processes at the <a href="http://www.ed.ac.uk/home">University of Edinburgh</a>,
   in the <a href="http://www.ed.ac.uk/schools-departments/geosciences/">School of GeoSciences</a>.</p>
+  <p class="post-excerpt">When you put in professorial promotion paperwork at the <a href="http://www.ed.ac.uk/home">University of Edinburgh</a> you are actually allowed to name yur "personal chair", and I choses the title above since it sounded respectable and I was nervous I wouldn't be promoted. But I now regret not naming my position "Professor of Mudd".</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Vitae</h2>
-  <p class="post-excerpt">I am from Riverside, California. I then went to Berkeley, Santa Barbara, Tallahasse, and Nashville (<a href="http://nashville.about.com/od/historyandsites/a/NashHistXline2.htm">The Athens of the South</a>) for some degrees. NOAA kindly provided funding for me to stay in Nashville for a year after my PhD. Then I moved to Edinburgh (<a href="http://www.ewht.org.uk/learning/Athens/why-athens-of-the-north">The Athens of the North</a>) in 2007, and as a result my children rhyme 'food' with 'good'. 
+  <p class="post-excerpt">I am from <a href="https://en.wikipedia.org/wiki/Riverside,_California">Riversid</a><a href="https://www.youtube.com/watch?v=yRNb4GcRhoQ">e</a>, California. I then went to Berkeley, Santa Barbara, Tallahasse, and Nashville (<a href="http://nashville.about.com/od/historyandsites/a/NashHistXline2.htm">The Athens of the South</a>) for some degrees. NOAA kindly provided funding for me to stay in Nashville for a year after my PhD. Then I moved to Edinburgh (<a href="http://www.ewht.org.uk/learning/Athens/why-athens-of-the-north">The Athens of the North</a>) in 2007, and as a result my children rhyme the words 'food' with 'good' and think 20°C/68°F is 'too hot'. 
  </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
