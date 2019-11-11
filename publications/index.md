@@ -16,12 +16,41 @@ The links on this page are to the article of record (click on the doi). Not all 
 
 [google scholar: Simon M. Mudd](http://scholar.google.co.uk/citations?user=9iv6l7wAAAAJ&hl=en)
 
-[research gate: Simon M. Mudd](http://www.researchgate.net/profile/Simon_Mudd)
+[![Simon M Mudd ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16(1).gif "OrcID")](https://orcid.org/0000-0002-1357-8501)
 
 [Edinburgh research explorer: Simon M. Mudd](http://www.research.ed.ac.uk/portal/en/persons/simon-mudd(597e4975-68c0-4175-8119-0d22d1438753).html)
 
 {% include toc.html %}
  
+ 
+ 
+ 
+##2019 
+
+
+
+##2018 
+
+
+
+##2017 
+ 
+ 
+##2016 
+ 
+
+  **51.** Clubb, F. J., **Mudd, S. M.**, Attal, M., Milodowski, D. T., & Grieve, S. W. D. (2016). The relationship between drainage density, erosion rate, and hilltop curvature: Implications for sediment transport processes. *Journal of Geophysical Research: Earth Surface*, 121(10), 1724–1745. [doi:10.1002/2015JF003747](https://doi.org/10.1002/2015JF003747)
+
+  **50.** Grieve, S. W. D., **Mudd, S. M.**, & Hurst, M. D. (2016). How long is a hillslope? *Earth Surface Processes and Landforms*, 41(8), 1039–1054. [doi:10.1002/esp.3884](https://doi.org/10.1002/esp.3884)
+
+  **49.** Grieve, S. W. D., **Mudd, S. M.**, Hurst, M. D., & Milodowski, D. T. (2016). A nondimensional framework for exploring the relief structure of landscapes. *Earth Surface Dynamics*, 4(2), 309–325. [doi:10.5194/esurf-4-309-2016](https://doi.org/10.5194/esurf-4-309-2016)
+  
+  **48.** Grieve, S. W. D., **Mudd, S. M.**, Milodowski, D. T., Clubb, F. J., and Furbish, D. J. (2016). How does grid-resolution modulate the topographic expression of geomorphic processes? *Earth Surface Dynamics*, 4(3), 627–653. [doi:10.5194/esurf-4-627-2016](https://doi.org/10.5194/esurf-4-627-2016)
+  
+  **47.** Harel, M.-A., **Mudd, S. M.**, and Attal, M. (2016). Global analysis of the stream power law parameters based on worldwide 10Be denudation rates. *Geomorphology*, 268, 184–196. [doi:10.1016/j.geomorph.2016.05.035](https://doi.org/10.1016/j.geomorph.2016.05.035)
+
+  **46.** Parker, R. N., Hales, T. C., **Mudd, S. M.**, Grieve, S. W. D., & Constantine, J. A. (2016). Colluvium supply in humid regions limits the frequency of storm-triggered landslides. *Scientific Reports*, 6. [doi:10.1038/srep34438](https://doi.org/10.1038/srep34438)
+
 
 ##2015
  

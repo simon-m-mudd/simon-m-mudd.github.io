@@ -27,6 +27,13 @@ owner:
   email: simon.m.mudd@ed.ac.uk
   twitter: simonmariusmudd
   avatar: Simon_Photo_160x160.jpg # 160x160 px image for author byline
+  
+# Some testing stuff
+author:
+  name: 'Simon M Mudd'
+  twitter_username: SimonMariusMudd
+  github_username:  simon-m-mudd
+  google_scholar_id: 9iv6l7wAAAAJ
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "readme.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
