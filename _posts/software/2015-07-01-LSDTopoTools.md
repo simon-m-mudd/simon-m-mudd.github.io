@@ -18,8 +18,17 @@ LSDTopoTools
 
 ## Overview
 
-You should go to the website for this.
+LSDTopoTools is a collection of software tools for analysing topography. It also contains tools for cosmogenic nuclide analyses, landscape evolution, and hydrology. 
 
 ## Documentation
 
-There will be a link here. 
+We have several hundred pages of docuentation about LSDTopoTools. It can be found on our documentation website. 
+
+## LSDTopPyTools
+
+Boris Gailleton has developed a series of python bindings for LSDTopoTools so you can use it natively within a python environment. 
+
+## Citing LSDTopoTools
+
+If you use LSDTopoTools for your research, you can cite:
+
