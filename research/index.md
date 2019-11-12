@@ -12,17 +12,22 @@ image:
 
 ## Overview
 
-I'm broadly interested in why the surface of the Earth looks the way it does, but this leads in a number of directions, including trying to understand the topographic signature of various erosion processes as well as tectonics, how chemical weathering affects morphology, and the evolution of coastal ecosystems. Below are some examples of my research projects. 
+I'm broadly interested in why the surface of the Earth looks the way it does. This has led me in a number of directions, including trying to understand the topographic signature of various erosion processes as well as tectonics, how chemical weathering affects morphology, and the evolution of coastal ecosystems. Below are some examples of my research projects. 
 
 {% include toc.html %}
 
 ## Research projects
 
 <div class="tiles">
+
+<div class="tiles">
 {% for post in site.categories.research %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+
+</div><!-- /.tiles -->
+
 
 ## Media and press clippings
 
