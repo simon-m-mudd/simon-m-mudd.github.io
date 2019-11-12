@@ -6,8 +6,8 @@ excerpt: "LSDTopoTools: reproducable topographic analysis"
 tags: [software, topographic analysis]
 modified: 2015-07-30
 image:
-  feature: 1600x800.gif
-  teaser: Stuart_400x250.jpg
+  feature: LSD-logo_horizontal.png
+  teaser: LSD-logo_horizontal.png
 ads: false
 share: false
 ---

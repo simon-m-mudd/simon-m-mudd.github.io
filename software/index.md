@@ -6,7 +6,7 @@ modified:
 excerpt: "Software."
 tags: []
 image:
-  feature: Dolomites_1500x500.jpg
+  feature: le_sueur_terraces.png
   image-credit: Roughness_800x300.jpg
   teaser: Transient_400x200.jpg
 ---
