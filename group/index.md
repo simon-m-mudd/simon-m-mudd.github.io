@@ -10,7 +10,7 @@ image:
   teaser: Default_400x250.jpg
 ---
 
-I've been lucky enough to collaborate with some amazing PhD students and postdocs. I can only hope they learned as much from me as I learned from them.
+I've been lucky to collaborate with some amazing PhD students and postdocs. I can only hope they learned as much from me as I learned from them.
 
 {% include toc.html %}
 

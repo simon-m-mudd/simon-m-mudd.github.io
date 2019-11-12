@@ -28,6 +28,7 @@ I'm broadly interested in why the surface of the Earth looks the way it does. Th
 
 </div><!-- /.tiles -->
 
+&nbsp;
 
 ## Media and press clippings
 
@@ -49,4 +50,5 @@ I've had some research coverage in the press, as well as discussions about other
 
 * [A general piece from the EGU blog](https://blogs.egu.eu/geolog/2013/06/21/geotalk-simon-mudd/)
 * [Comment on rock arches](https://www.bbc.co.uk/news/science-environment-28365410)
+* [Various videos including LSDTopoTools instructions](https://www.youtube.com/channel/UCB4-XOd0afIW_RDhfuV2WFw)
 
