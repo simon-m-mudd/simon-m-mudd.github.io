@@ -3,7 +3,7 @@ layout: archive
 title: "Software"
 date: 2015-07-15
 modified:
-excerpt: "Software."
+excerpt:
 tags: []
 image:
   feature: le_sueur_terraces.png
