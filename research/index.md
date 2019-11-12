@@ -29,6 +29,7 @@ I'm broadly interested in why the surface of the Earth looks the way it does. Th
 </div><!-- /.tiles -->
 
 &nbsp;
+<br>
 
 ## Media and press clippings
 
