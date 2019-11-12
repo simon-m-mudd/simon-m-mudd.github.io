@@ -6,7 +6,7 @@ modified:
 excerpt: "Research projects."
 tags: []
 image:
-  feature: waterfall_panorama.jpg
+  feature: black_mount_banner.jpg
   teaser: ChiFia_400x250.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: media
 title: "About"
-date: 2015-07-15
+date: 2019-11-12
 modified:
 excerpt: "About me."
 tags: []
