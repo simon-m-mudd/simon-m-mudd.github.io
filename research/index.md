@@ -6,7 +6,7 @@ modified:
 excerpt: "Research projects."
 tags: []
 image:
-  feature: Dolomites_1500x500.jpg
+  feature: waterfall_panorama.jpg
   teaser: ChiFia_400x250.jpg
 ---
 
