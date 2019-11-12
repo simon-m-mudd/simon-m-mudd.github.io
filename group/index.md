@@ -17,7 +17,7 @@ I've been lucky enough to collaborate with some amazing PhD students and postdoc
 ## Current Students and postdocs
 
 Louis Kinnear | [<span style="color:blue">Profile<\span>](https://www.ed.ac.uk/geosciences/people/person.html?indv=4127) | Soil weathering fluxes and clay formation rates as a function of erosion.
-Guillaume Goodwin | [Scholar](https://scholar.google.com/citations?hl=en&user=Or3grvoAAAAJ) [Profile](https://www.ed.ac.uk/geosciences/people/person.html?indv=4505) | Salt marsh evolution. 
+Guillaume Goodwin | [![Scholar<span class="gs_ico"></span>](https://scholar.google.com/citations?hl=en&user=Or3grvoAAAAJ) [Profile](https://www.ed.ac.uk/geosciences/people/person.html?indv=4505) | Salt marsh evolution. 
 Noorzalianee Ghazali | [<span style="color:blue">Profile<\span>](https://www.ed.ac.uk/geosciences/people/person.html?indv=4433) | Mangrove change.
 Boris Gailleton | [Scholar](https://scholar.google.com/citations?hl=en&user=r5HIc00AAAAJ) [Profile](https://www.ed.ac.uk/geosciences/people/person.html?indv=5391) | Tectonic evolution of the Carpathians and topographic analysis. Co-supervised with Hugh Sinclair.
 Marina Ruiz Sanchez-Oro | [Profile](https://www.ed.ac.uk/geosciences/people/person.html?indv=13531) | Machine learning and neural networks to detect landslides, floods and forest change.
