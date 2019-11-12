@@ -6,7 +6,7 @@ modified:
 excerpt:
 tags: []
 image:
-  feature: Dolomites_1500x500.jpg
+  feature: dales_panorama.jpg
   teaser:
   thumb:
 share: false
