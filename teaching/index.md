@@ -8,7 +8,9 @@ tags: []
 image:
   feature: Painting_tile_crop.jpg
   teaser: Terrace_hillside_400x250.jpg
+  thumb: Terrace_hillside_400x250.jpg
 ---
+
 
 {% include toc.html %}
 

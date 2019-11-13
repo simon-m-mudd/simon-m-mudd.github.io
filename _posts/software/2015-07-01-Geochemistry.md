@@ -19,6 +19,7 @@ Geochemistry
   
   We have models of geochemical evolution of soil that take into account the path of particles as they are detached from parent material and enter mobile regolith. 
   
-  In addition we have models and tools for calculating erosion rates from cosmogenic nuclides. 
+  The tools can be found at our [LSDGeochemistry github page](https://github.com/LSDGeochemistry).
+
   
   
