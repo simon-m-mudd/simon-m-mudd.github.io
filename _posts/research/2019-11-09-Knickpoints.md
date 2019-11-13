@@ -6,8 +6,8 @@ excerpt: "Knickpoints."
 tags: [research, hillslopes, geomorphology]
 modified: 2019-11-11
 image:
-  feature: high_force.jpg
-  teaser: high_force.jpg
+  feature: WF2.png
+  teaser: WF2.png
 ads: false
 share: false
 ---

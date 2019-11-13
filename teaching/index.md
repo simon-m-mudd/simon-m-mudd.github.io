@@ -2,17 +2,13 @@
 layout: archive
 title: "Teaching and media"
 date: 2019-11-13
-modified:2019-11-13
+modified: 
 excerpt:
 tags: []
 image:
-  feature: dales_panorama.jpg
-  teaser: Terrace_hillside_400x250.jpg
+  feature: Painting2.png
 ---
 
-## Overview
-
-{% include toc.html %}
 
 ## Teaching
 
