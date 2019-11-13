@@ -33,7 +33,7 @@ I've had some research coverage in the press, as well as discussions about other
 
 ### Our Antarctic study
 
-* [What Antarctical looked like before the ice sheets](https://www.usnews.com/science/articles/2009/06/04/alpine-antarctica-before-the-ice)
+* [What Antarctica looked like before the ice sheets](https://www.usnews.com/science/articles/2009/06/04/alpine-antarctica-before-the-ice)
 
 ### Miscelaneous
 
