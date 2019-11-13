@@ -3,7 +3,7 @@ layout: archive
 title: "Teaching and media"
 date: 2019-11-13
 modified:2019-11-13
-excerpt: "Collaborators."
+excerpt:
 tags: []
 image:
   feature: painting.jpg
@@ -11,7 +11,7 @@ image:
   thumb: Terrace_hillside_400x250.jpg
 ---
 
-
+Why does this not fucking work?????????????????
 
 {% include toc.html %}
 
