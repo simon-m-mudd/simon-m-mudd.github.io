@@ -6,12 +6,10 @@ modified:2019-11-13
 excerpt:
 tags: []
 image:
-  feature: painting.jpg
+  feature: dales_panorama.jpg
   teaser: Terrace_hillside_400x250.jpg
-  thumb: Terrace_hillside_400x250.jpg
 ---
 
-Why does this not fucking work?????????????????
 
 {% include toc.html %}
 
