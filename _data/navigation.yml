@@ -18,9 +18,15 @@
 - title: Publications
   url: /publications/
   excerpt: "My publications."
-  image: monkey_400x250.jpg 
+  image: Terrace_hillside_400x250.jpg
+  
+- title: Teaching and media
+  url: /teaching/
+  excerpt: "Teaching and media."
+  image: Ganga_confluence_400x250.jpg 
   
 - title: About
   url: /about/
   excerpt: "About."
   image: Kids_fishtank_400x250.jpg  
+  

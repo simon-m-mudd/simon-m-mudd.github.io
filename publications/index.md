@@ -7,8 +7,8 @@ excerpt:
 tags: []
 image:
   feature: dales_panorama.jpg
-  teaser:
-  thumb:
+  teaser: Scotland_lakes_400x250.jpg
+  thumb: Scotland_lakes_400x250.jpg
 share: false
 ---
 

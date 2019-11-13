@@ -43,3 +43,59 @@ Calum Bradbury | [**_linkedin_**](https://www.linkedin.com/in/calum-bradbury-gis
 Dan Hobley | [**_Scholar_**](https://scholar.google.com/citations?user=kJ13b-kAAAAJ&hl=en) [**_Profile_**](https://www.cardiff.ac.uk/people/view/481890-) | Postdoc in 2013, on project with Hugh Sinclair. Numerical modelling, landscape evolution, planetary geomorphology, sedimentology. Now lecturer at Cardiff University
 Marie-Alice Harel | [**_Profile_**](http://www.maharel.com/) | Postdoc in 2015. Cosmogenics, landscape evolution, and hillslope hydrology. [**_Now an illustrator_**](https://www.etsy.com/uk/shop/maharelillo). 
 Declan Valters | [**_Scholar_**](https://scholar.google.com/citations?user=0OIHQmIAAAAJ&hl=en) [**_Profile_**](https://www.bgs.ac.uk/staff/profiles/52311.html) | Landscape evolution, hydrology. Declan was an MEarthSci student at Edinburgh and during his PhD at Manchester and as a research software engineer helped develop LSDTopoTools.
+
+
+## Opportunities in the Land Surface Dynamics Group
+
+### Studentships
+
+Our group has a wide range of both PhD and Master by research students. Our students often work collaboratively (see our publication lists: frequently papers have more than one student author) and our vibrant group meets every Friday for informal talks, paper discussions, etc. We are open to enquiries about PhD projects. If you are considering doing a PhD with us, please don’t hesitate to contact some of our graduates.  
+
+#### PhD
+
+If you are an EU/UK citizen, the main source of funding for our PhD students is through the E4 Doctoral Training Partnership: https://www.ed.ac.uk/e4-dtp 
+
+If you are not an EU/UK citizen, please see the following website: https://www.ed.ac.uk/geosciences/postgraduate/phd/applying/process
+
+Information about other funding sources are here: https://www.ed.ac.uk/geosciences/postgraduate/phd/fees-funding/funding
+
+#### Master by research
+
+We are open to student doing a Master by research, but we cannot supply funding for this so you will need to secure your own funding. See this link: https://www.ed.ac.uk/geosciences/postgraduate/phd/fees-funding/funding
+
+#### Taught Masters
+
+We welcome students in taught Masters who wish to do a thesis on topics in geomorphology. To apply for taught masters, see this website: https://www.ed.ac.uk/geosciences/postgraduate/taught-masters
+
+### Post-doctoral and Staff opportunities
+If you have a PhD and want a research position with us, there are three options:
+* Competitive fellowships
+* Post-docs linked to funding we have received
+* Funding from your country
+
+#### Fellowships
+
+We welcome enquiries about fellowships. One thing to note is that all of these fellowships are very competitive. You will need both a strong proposal and an excellent publication record. The most common fellowships are (please see links for deadlines)
+* NERC fellowships. Most potential fellows apply to the Independent Research fellowships but note that other schemes have higher success rates. See the NERC website: https://nerc.ukri.org/funding/available/fellowships/
+* Marie Skłodowska-Curie fellowships. Again, these are both prestigious and very competitive. See information here: https://ec.europa.eu/research/mariecurieactions/node_en
+* Leverhulme fellowships: https://www.leverhulme.ac.uk/early-career-fellowships
+* Newton International fellowships: https://royalsociety.org/grants-schemes-awards/grants/newton-international/
+* Royal Society of Edinburgh Fellowships: https://www.rse.org.uk/awards/rse-personal-research-fellowships/
+* If you are from the United States, the NSF considers post-doctoral fellowships that are based abroad. See this website for information: https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503144&org=NSF
+
+#### Post-docs linked to Land Surface Dynamics funded projects
+
+We occasionally have funding for post-doctoral researchers. The best way to see if any are available is to follow our twitter account: https://twitter.com/EdinLandSurf
+
+#### Funding from your country
+
+There are many opportunities for funding from other countries (China, in particular, has many funding opportunities): if your native country has researcher funding we are happy to discuss letters of support and co-developed projects. 
+
+### Visiting Students
+
+We frequently host visiting students, researchers and staff. See this website for information: https://www.ed.ac.uk/geosciences/postgraduate/phd/visiting-students. Please get in touch about the organising a visit. Note that we do not have funding for visitors.
+
+#### Collaborations
+
+We welcome collaborative proposals. Come and see us at conferences or drop us an e-mail!
+
