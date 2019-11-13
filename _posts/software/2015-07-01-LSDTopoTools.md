@@ -56,6 +56,8 @@ We also maintain a [zenodo collection](https://zenodo.org/search?page=1&size=20&
 
 If you are using specific algorithms developed by our group and published in the scientific literature, please cite the relevant paper. 
 
+![Landscape evolution(./images/Mud_basin_bordeaux.jpg)
+
 
 
 

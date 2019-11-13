@@ -6,7 +6,7 @@ excerpt: "Geochemical evolution of eroding soils."
 tags: [software, numerical modelling, geomorphology, geochemistry]
 modified: 2015-07-30
 image:
-  feature: Default_1500x350.jpg
+  feature: waterfall_banner.jpg
   teaser: Default_400x250.jpg
 ads: false
 share: false
