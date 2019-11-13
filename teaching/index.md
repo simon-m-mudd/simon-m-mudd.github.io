@@ -1,15 +1,16 @@
 ---
-layout: article
+layout: archive
 title: "Teaching and media"
 date: 2019-11-13
 modified:2019-11-13
-excerpt: 
+excerpt: "Collaborators."
 tags: []
 image:
-  feature: Painting_tile_crop.jpg
+  feature: painting.jpg
   teaser: Terrace_hillside_400x250.jpg
   thumb: Terrace_hillside_400x250.jpg
 ---
+
 
 
 {% include toc.html %}
