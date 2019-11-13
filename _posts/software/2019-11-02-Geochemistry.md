@@ -7,7 +7,7 @@ tags: [software, numerical modelling, geomorphology, geochemistry]
 modified: 2015-07-30
 image:
   feature: waterfall_banner.jpg
-  teaser: Default_400x250.jpg
+  teaser: Ganga_confluence_400x250.jpg
 ads: false
 share: false
 ---
