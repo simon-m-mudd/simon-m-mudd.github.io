@@ -6,8 +6,8 @@ excerpt: "Marsh Edge."
 tags: [research, hillslopes, geomorphology]
 modified: 2019-11-11
 image:
-  feature: Marsh_elev_small.jpg
-  teaser: Marsh_elev_teaser.png
+  feature: Marsh_elev_small.png
+  teaser: Marh_elev_teaser.png
 ads: false
 share: false
 ---
