@@ -2,7 +2,7 @@
 layout: article
 title: "Knickpoints"
 categories: research
-excerpt: "Knickpoints."
+excerpt: "Automated detection of knickpoints based on channel segmentation."
 tags: [research, hillslopes, geomorphology]
 modified: 2019-11-11
 image:

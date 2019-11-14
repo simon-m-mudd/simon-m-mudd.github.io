@@ -2,7 +2,7 @@
 layout: article
 title: "Marsh elevations"
 categories: research
-excerpt: "Marsh Edge."
+excerpt: "Marsh platform topography indicates the importantce of storms and spring tides in maintaing marsh elevations."
 tags: [research, hillslopes, geomorphology]
 modified: 2019-11-11
 image:
