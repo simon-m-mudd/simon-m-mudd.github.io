@@ -25,7 +25,7 @@ share: false
 
 * [Basic topographic analysis](https://lsdtopotools.github.io/LSDTT_documentation/LSDTT_basic_usage.html), e.g., slopes, channel networks, basic raster calculations etc. 
 * [Algorithmic extraction of drainage networks](https://lsdtopotools.github.io/LSDTT_documentation/LSDTT_channel_extraction.html), using a wide range of algorithms. See [Clubb et al., 2014](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013WR015167) and [Grieve et al., 2016a](https://www.earth-surf-dynam.net/4/627/2016/esurf-4-627-2016.html).
-* Algorithmic extaction of rock ourcrops, see [Milodowski et al., 2015](https://www.earth-surf-dynam.net/3/483/2015/)
+* Algorithmic extraction of rock outcrops, see [Milodowski et al., 2015](https://www.earth-surf-dynam.net/3/483/2015/)
 * Analysis of channel steepness for tectonic geomorphology applications. See [Mudd et al., 2014](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013JF002981). In addition tools for determining channel concavity. See [Mudd et al., 2018](https://www.earth-surf-dynam.net/6/505/2018/)
 * Extraction and statistical analysis of knickpoints. See [Gailleton et al., 2018](https://www.earth-surf-dynam.net/7/211/2019/).
 * Extraction of drainage density [see Clubb et al., 2016](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JF003747), floodplains, and terraces [see Clubb et al., 2017](https://www.earth-surf-dynam.net/5/369/2017/).
@@ -55,7 +55,7 @@ We also maintain a [zenodo collection](https://zenodo.org/search?page=1&size=20&
 
 If you are using specific algorithms developed by our group and published in the scientific literature, please cite the relevant paper. 
 
-![Landscape evolution](./images/Mud_basin_bordeaux.jpg)
+![Landscape evolution](images/Mud_basin_bordeaux.jpg)
 
 
 

@@ -34,8 +34,8 @@ Yan Luobin | [**_Scholar_**](https://scholar.google.com/citations?user=_ASOJmAAA
 ## Former PhD students, postdocs and researchers
 
 Lyndsay MacCleary (nee Callaghan) | [**_linkedin_**](https://www.linkedin.com/in/lynsey-macleary-a0b3633b/?originalSubdomain=uk ) | [**_PhD in 2012_**](https://era.ed.ac.uk/handle/1842/6213). Vegetation and landscape evolution. Now an environmental consultant with JBA. 
-Martin D. Hurst | [**_Scholar_**](https://scholar.google.com/citations?user=9--6x5sAAAAJ&hl=en) [**_Profile_**](https://www.gla.ac.uk/schools/ges/staff/martinhurst/) | [**_PhD in 2013_**](https://era.ed.ac.uk/handle/1842/12228). Hillslope and coastal gemorphlogy. Now lecturer Glasgow University. 
-David T. Milodowski | [**_Scholar_**](https://scholar.google.com/citations?user=ay1R3UgAAAAJ&hl=en) [**_Profile_**](https://www.research.ed.ac.uk/portal/en/persons/david-milodowski(0130326f-fa97-48ed-843b-7bcc72e89065).html) | [**_PhD in 2016_**](https://era.ed.ac.uk/handle/1842/20438). Vegetation, topographic analysis, lidar, gemorphlogy. Now PDRA at Edinburgh University. 
+Martin D. Hurst | [**_Scholar_**](https://scholar.google.com/citations?user=9--6x5sAAAAJ&hl=en) [**_Profile_**](https://www.gla.ac.uk/schools/ges/staff/martinhurst/) | [**_PhD in 2013_**](https://era.ed.ac.uk/handle/1842/12228). Hillslope and coastal geomorphlogy. Now lecturer Glasgow University. 
+David T. Milodowski | [**_Scholar_**](https://scholar.google.com/citations?user=ay1R3UgAAAAJ&hl=en) [**_Profile_**](https://www.research.ed.ac.uk/portal/en/persons/david-milodowski(0130326f-fa97-48ed-843b-7bcc72e89065).html) | [**_PhD in 2016_**](https://era.ed.ac.uk/handle/1842/20438). Vegetation, topographic analysis, lidar, geomorphlogy. Now PDRA at Edinburgh University. 
 Stuart W.D. Grieve | [**_Scholar_**](https://scholar.google.com/citations?user=LnCvUwwAAAAJ&hl=en) [**_Profile_**](https://swdg.io/) | [**_PhD in 2016_**](https://era.ed.ac.uk/handle/1842/25398). Hillslope geomorphology, natural hazards, topographic analysis. Now lecturer at Queen Mary University London
 Fiona J Clubb | [**_Scholar_**](https://scholar.google.com/citations?user=LnCvUwwAAAAJ&hl=en) [**_Profile_**](https://fclubb.github.io/) | [**_PhD in 2017_**](https://era.ed.ac.uk/handle/1842/28817). Topographic analysis, hydrology, landscape evolution, geomorphology. Now assistant professor at Durham University
 John Preston | [**_linkedin_**](https://www.linkedin.com/in/john-preston-61b76a22/?originalSubdomain=uk) | [**_PhD in 2017_**](https://era.ed.ac.uk/handle/1842/31430). Coastal landscape evolution and Vikings. Now environmental consultant. 
@@ -82,7 +82,7 @@ We welcome enquiries about fellowships. One thing to note is that all of these f
 * Leverhulme fellowships:  [Leverhulme fellowship information](https://www.leverhulme.ac.uk/early-career-fellowships)
 * Newton International fellowships: [Newton fellowship information](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
 * Royal Society of Edinburgh Fellowships: [RSE fellowship information](https://www.rse.org.uk/awards/rse-personal-research-fellowships/)
-* If you are from the United States, the NSF considers post-doctoral fellowships that are based abroad. See this website for information: [NSF fellowhsip information](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503144&org=NSF)
+* If you are from the United States, the NSF considers post-doctoral fellowships that are based abroad. See this website for information: [NSF fellowship information](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503144&org=NSF)
 
 #### Post-docs linked to Land Surface Dynamics funded projects
 
