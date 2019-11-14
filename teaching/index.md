@@ -14,12 +14,14 @@ image:
 
 I teach in the both the [Geography](https://www.ed.ac.uk/geosciences/undergraduate/geography-degrees) and [Geology and Physical Geography Degree](https://www.ed.ac.uk/geosciences/undergraduate/geology-physical-geography) programs at the University of Edinburgh [School of GeoSciences](https://www.ed.ac.uk/geosciences). I also supervise MSc students in the [GIS](https://www.ed.ac.uk/geosciences/postgraduate/taught-masters/geographical-information-science) and [Earth Observation and Geoinformation Management](https://www.ed.ac.uk/geosciences/postgraduate/taught-masters/msc-earth-observation) MSc programmes. 
 
+My teaching involves introductory physical geology and geography, mathematics and programming for geoscientists, gemorphology, and field teaching. 
+
 I am also director of the [E4 DTP](https://www.ed.ac.uk/e4-dtp), a [NERC Doctoral Training Partnership](https://nerc.ukri.org/funding/available/postgrad/responsive/dtp/).
 
 
 ## Media and press clippings
 
-I've had some research coverage in the press, as well as discussions about other people's research. In a
+I've had some research coverage in the press, as well as discussions about other people's research. Below are a few links to various articles, videos, and podcasts. 
 
 ### Coverage of marsh work
 
