@@ -21,6 +21,28 @@ You can also see automated updates of my paper on my [google scholar page](http:
 {% include toc.html %}
  
  
+## 2021
+
+  **78.** Harries, R. M., Gailleton, B., Kirstein, L. A., Attal, M., Whittaker, A. C., & **Mudd, S. M.** (2021). Impact of climate on landscape form, sediment transfer and the sedimentary record. *Earth Surface Processes and Landforms*, 46(5), 990–1006. [https://doi.org/10.1002/esp.5075](https://doi.org/10.1002/esp.5075)
+
+
+## 2020
+
+  **77.** Tarolli, P., & Mudd, S. M. (2020). Remote Sensing of Geomorphology (Vol. 23). Amsterdam: Elsevier.
+
+  **76.** Grieve, S. W. D., Clubb, F. J., & **Mudd, S. M.** (2020). Reproducible topographic analysis. In Developments in Earth Surface Processes (Vol. 23, pp. 339–367). Elsevier. [https://doi.org/10.1016/B978-0-444-64177-9.00012-6](https://doi.org/10.1016/B978-0-444-64177-9.00012-6)
+
+  **75.** Milodowski, D. T., Hancock, S., Silvestri, S., & **Mudd, S. M.**https://doi.org/10.1016/B978-0-444-64177-9.00005-9](https://doi.org/10.1016/B978-0-444-64177-9.00005-9)
+
+  **74.** **Mudd, S. M.** (2020). Topographic data from satellites. In Developments in Earth Surface Processes (Vol. 23, pp. 91–128). Elsevier. [https://doi.org/10.1016/B978-0-444-64177-9.00004-7](https://doi.org/10.1016/B978-0-444-64177-9.00004-7)
+
+  **73.** Clubb, F. J., **Mudd, S. M.**, Hurst, M. D., & Grieve, S. W. D. (2020). Differences in channel and hillslope geometry record a migrating uplift wave at the Mendocino triple junction, California, USA. *Geology*, 48(2), 184–188. [https://doi.org/10.1130/G46939.1](https://doi.org/10.1130/G46939.1)
+
+  **72.** Goodwin, G. C. H., & **Mudd, S. M.** (2020). Detecting the Morphology of Prograding and Retreating Marsh Margins-Example of a Mega-Tidal Bay. *Remote Sensing*, 12(1), 13. [https://doi.org/10.3390/rs12010013]https://doi.org/10.3390/rs12010013)
+
+  **71.** Wang, Y., Dong, Y., Su, Z., **Mudd, S. M.**, Zheng, Q., Hu, G., & Yan, D. (2020). Spatial distribution of water and wind erosion and their influence on the soil quality at the agropastoral ecotone of North China. *International Soil and Water Conservation Research*, 8(3), 253–265. [https://doi.org/10.1016/j.iswcr.2020.05.001](https://doi.org/10.1016/j.iswcr.2020.05.001)
+
+
 
 ## 2019 
 
