@@ -16,8 +16,11 @@ I teach in the both the [Geography](https://www.ed.ac.uk/geosciences/undergradua
 
 My teaching involves introductory physical geology and geography, mathematics and programming for geoscientists, gemorphology, and field teaching. 
 
-I am also director of the [E4 DTP](https://www.ed.ac.uk/e4-dtp), a [NERC Doctoral Training Partnership](https://nerc.ukri.org/funding/available/postgrad/responsive/dtp/).
+I was formerly (2016-2020) director of the [E4 DTP](https://www.ed.ac.uk/e4-dtp), a [NERC Doctoral Training Partnership](https://nerc.ukri.org/funding/available/postgrad/responsive/dtp/).
 
+### Computational teaching
+
+* I have some python notebooks that might be useful for learning geospatial analysis: https://github.com/simon-m-mudd/smm_teaching_notebooks
 
 ## Media and press clippings
 

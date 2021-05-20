@@ -19,6 +19,9 @@ share: false
 
 [LSDTopoTools](https://lsdtopotools.github.io/) is a collection of software tools for [analysing](https://lsdtopotools.github.io/LSDTT_documentation/LSDTT_basic_usage.html) [topography](https://lsdtopotools.github.io/LSDTT_documentation/LSDTT_chi_analysis.html). It also contains tools for [cosmogenic nuclide analyses](https://lsdtopotools.github.io/LSDTT_documentation/LSDTT_BasinwideCRN.html), [landscape evolution](https://lsdtopotools.github.io/LSDTT_documentation/LSDTT_MuddPILE.html), and [hydrology](https://lsdtopotools.github.io/LSDTT_documentation/LSDTT_floodplains_terraces.html). 
 
+### I just want to get it!
+
+* LSDTopoTools is available through conda. If you have conda installed, just run `conda install -c conda-forge lsdtopotools`
 
 ### Some things LSDTopoTools can do
 
