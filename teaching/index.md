@@ -20,7 +20,7 @@ I was formerly (2016-2020) director of the [E4 DTP](https://www.ed.ac.uk/e4-dtp)
 
 ### Computational teaching
 
-* I have some python notebooks that might be useful for learning geospatial analysis: https://github.com/simon-m-mudd/smm_teaching_notebooks
+* I have some python notebooks that might be useful for learning geospatial analysis: [Simon's teaching notebooks](https://github.com/simon-m-mudd/smm_teaching_notebooks)
 
 ## Media and press clippings
 
@@ -32,7 +32,7 @@ I've had some research coverage in the press, as well as discussions about other
 * [An article about salt marsh carbon](http://news.trust.org//item/?map=salt-marshes-to-absorb-carbon-to-2050-but-emit-it-later)
 * [Another article about salt marsh carbon](https://phys.org/news/2012-09-salt-marsh-carbon-role-climate.html)
 * [A comment on a recent paper](https://www.smithsonianmag.com/smithsonian-institution/marshes-grow-stronger-when-faced-increased-carbon-dioxide-180973267/)
-* [A podcast on a recent study (starts at 00:46)](https://www.nature.com/articles/d41586-019-00804-8)
+* [A podcast on a salt marsh study (starts at 00:46)](https://www.nature.com/articles/d41586-019-00804-8)
 
 ### Our Antarctic study
 
