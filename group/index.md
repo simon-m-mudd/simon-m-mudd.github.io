@@ -18,12 +18,13 @@ I've been lucky to collaborate with some amazing PhD students and postdocs. I ca
 
 Louis Kinnear | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=4127) | Soil weathering fluxes and clay formation rates as a function of erosion.
 Noorzalianee Ghazali | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=4433) | Mangrove change.
-Marina Ruiz Sanchez-Oro | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=13531) | Machine learning and neural networks to detect landslides, floods and forest change.
+Marina Ruiz Sánchez-Oro | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=13531) | Climate and landscape evolution.
 Callum Strong | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=11090) | Evolution of African drainage systems. Co-supervised with Mikael Attal and Hugh Sinclair.
 Justine Domingo | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=7001) | Sediment and pollutant transport in the Philippines. Co-supervised with Mikael Attal and Bryne Ngwenya.
 Donny Wahyudi | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=12284) | Tectonic geomorphology. Co-supervised with Hugh Sinclair.
-Saraswati Thapa | | Flooding and sediment transport. Co-supervised with Hugh Sinclair and Mikael Attal.
+Saraswati Thapa | [**_Profile_**](https://scholar.google.com/citations?user=X5zT-UgAAAAJ&hl=en) | Flooding and sediment transport. Co-supervised with Hugh Sinclair and Mikael Attal.
 Prakash Pokhrel | | Tectonic geomorphology of the Kathmandu Basin. Co-supervised with Hugh Sinclair and Mikael Attal.
+Anthony Hoskins | |  Drainage reorganization in South Baja California. Co-supervised with Mikael Attal, David Sanderson (SUERC), and Miguel Castillo (UNAM).
 Anya Towers | [**_Research site_**](https://storymaps.arcgis.com/stories/3c048dc7f1fd4c468ef2ec7086c84d82) | Grain sizes in Scotland. Co-supervised with Mikael Attal and Hugh Sinclair.
 Qiuyang Chen | | River meandering and vegetation Co supervised with Mikael Attal and Stephen Hancock
 
@@ -37,7 +38,7 @@ Lynsey MacLeary (nee Callaghan) | [**_linkedin_**](https://www.linkedin.com/in/l
 Martin D. Hurst | [**_Scholar_**](https://scholar.google.com/citations?user=9--6x5sAAAAJ&hl=en) [**_Profile_**](https://www.gla.ac.uk/schools/ges/staff/martinhurst/) | [**_PhD in 2013_**](https://era.ed.ac.uk/handle/1842/12228). Hillslope and coastal geomorphlogy. Now lecturer Glasgow University. 
 David T. Milodowski | [**_Scholar_**](https://scholar.google.com/citations?user=ay1R3UgAAAAJ&hl=en) [**_Profile_**](https://www.research.ed.ac.uk/portal/en/persons/david-milodowski(0130326f-fa97-48ed-843b-7bcc72e89065).html) | [**_PhD in 2016_**](https://era.ed.ac.uk/handle/1842/20438). Vegetation, topographic analysis, lidar, geomorphlogy. Now PDRA at Edinburgh University. 
 Stuart W.D. Grieve | [**_Scholar_**](https://scholar.google.com/citations?user=LnCvUwwAAAAJ&hl=en) [**_Profile_**](https://swdg.io/) | [**_PhD in 2016_**](https://era.ed.ac.uk/handle/1842/25398). Hillslope geomorphology, natural hazards, topographic analysis. Now lecturer at Queen Mary University London
-Fiona J Clubb | [**_Scholar_**](https://scholar.google.com/citations?user=LnCvUwwAAAAJ&hl=en) [**_Profile_**](https://fclubb.github.io/) | [**_PhD in 2017_**](https://era.ed.ac.uk/handle/1842/28817). Topographic analysis, hydrology, landscape evolution, geomorphology. Now assistant professor at Durham University
+Fiona J. Clubb | [**_Scholar_**](https://scholar.google.com/citations?user=LnCvUwwAAAAJ&hl=en) [**_Profile_**](https://fclubb.github.io/) | [**_PhD in 2017_**](https://era.ed.ac.uk/handle/1842/28817). Topographic analysis, hydrology, landscape evolution, geomorphology. Now assistant professor at Durham University
 John Preston | [**_linkedin_**](https://www.linkedin.com/in/john-preston-61b76a22/?originalSubdomain=uk) | [**_PhD in 2017_**](https://era.ed.ac.uk/handle/1842/31430). Coastal landscape evolution and Vikings. Now environmental consultant. 
 Calum Bradbury | [**_linkedin_**](https://www.linkedin.com/in/calum-bradbury-gis/?originalSubdomain=nz) | Masters by research in 2018. Controls on channel steepness in the Himalyas. Now environmental consultant in New Zealand. 
 Dan Hobley | [**_Scholar_**](https://scholar.google.com/citations?user=kJ13b-kAAAAJ&hl=en) [**_Profile_**](https://www.cardiff.ac.uk/people/view/481890-) | Postdoc in 2013, on project with Hugh Sinclair. Numerical modelling, landscape evolution, planetary geomorphology, sedimentology. Now lecturer at Cardiff University
@@ -45,7 +46,7 @@ Marie-Alice Harel | [**_Profile_**](http://www.maharel.com/) | Postdoc in 2015. 
 Declan Valters | [**_Scholar_**](https://scholar.google.com/citations?user=0OIHQmIAAAAJ&hl=en) [**_Profile_**](https://www.bgs.ac.uk/staff/profiles/52311.html) | Landscape evolution, hydrology. Declan was an MEarthSci student at Edinburgh and during his PhD at Manchester and as a research software engineer helped develop LSDTopoTools. Now research software engineer at British Geological Survey
 Guillaume Goodwin | [**_Scholar_**](https://scholar.google.com/citations?user=Or3grvoAAAAJ&hl=en&oi=ao) [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=4505) | Salt marsh evolution. Now at University of Padova
 Boris Gailleton | [**_Scholar_**](https://scholar.google.com/citations?user=r5HIc00AAAAJ&hl=en&oi=ao) [**_Profile_**](https://www.gfz-potsdam.de/en/staff/boris-gailleton/) | Tectonic evolution of the Carpathians and topographic analysis. Co-supervised with Hugh Sinclair. Now at GFZ Potsdam
-Wang Yanzai | Links | Soil erosion and tectonic geomorphology
+Wang Yanzai |  | Soil erosion and tectonic geomorphology
 Yan Luobin | [**_Scholar_**](https://scholar.google.com/citations?user=_ASOJmAAAAAJ&hl=en&oi=ao) | Evolution of sandstone landscapes
 
 
@@ -53,19 +54,19 @@ Yan Luobin | [**_Scholar_**](https://scholar.google.com/citations?user=_ASOJmAAA
 
 ### Studentships
 
-Our group has a wide range of both PhD and Master by research students. Our students often work collaboratively (see our publication lists: frequently papers have more than one student author) and our vibrant group meets every Friday for informal talks, paper discussions, etc. We are open to enquiries about PhD projects. If you are considering doing a PhD with us, please don’t hesitate to contact some of our graduates.  
+Our group has a wide range of both PhD and Master by research students. Our students often work collaboratively (see our publication lists: frequently papers have more than one student author) and our vibrant group meets weekly for informal talks, paper discussions, etc. We are open to enquiries about PhD projects. If you are considering doing a PhD with us, please don’t hesitate to contact some of our past or current students.  
 
 #### PhD
 
-If you are an EU/UK citizen, the main source of funding for our PhD students is through the E4 Doctoral Training Partnership: [E4DTP](https://www.ed.ac.uk/e4-dtp) 
+The main source of funding for our PhD students is through the E4 Doctoral Training Partnership: [E4DTP](https://www.ed.ac.uk/e4-dtp) 
 
-If you are not an EU/UK citizen, please see the following website: [Applications for non EU/UK residents](https://www.ed.ac.uk/geosciences/postgraduate/phd/applying/process)
+E4 studentships are open to any nationality, but there are a limited number of places for studnets who are not resident in the UK. Please see the following website for details: [Applications for non UK residents](https://www.ed.ac.uk/e4-dtp/how-to-apply/entry-and-eligibility-criteria)
 
-Information about other funding sources are here: [Funding sources for PhD](https://www.ed.ac.uk/geosciences/postgraduate/phd/fees-funding/funding)
+There are several other sources of potential PhD funding, and information about these can be found here: [Funding sources for PhD](https://www.ed.ac.uk/geosciences/postgraduate/phd/fees-funding/funding)
 
 #### Masters by research
 
-We are open to student doing a Masters by research, but we cannot supply funding for this so you will need to secure your own funding. See this link: [Funding for MSc by research](https://www.ed.ac.uk/geosciences/postgraduate/phd/fees-funding/funding)
+We are open to students doing a Masters by research, but we cannot supply funding for this so you will need to secure your own funding. See this link: [Funding for MSc by research](https://www.ed.ac.uk/geosciences/postgraduate/phd/fees-funding/funding)
 
 #### Taught Masters
 
