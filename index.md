@@ -16,7 +16,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Topographic Analysis</h2>
-  <p class="post-excerpt">My collaborators and I written several open source software packages for analysing topography and lidar data, and is the primary tool of our research. The software is called <a href="https://lsdtopotools.github.io/">LSDTopoTools</a>. <a href="https://github.com/LSDtopotools">LSDTopoTools software</a> includes <a href="https://lsdtopotools.github.io/LSDTT_documentation/">documentation</a> and associated <a href="https://github.com/LSDtopotools/LSDMappingTools">visualisation tools</a>. You can read about it in the software pages in the links above.</p>
+  <p class="post-excerpt">My collaborators and I written several open source software packages for analysing topography and lidar data, and is the primary tool of our research. The software is called <a href="https://lsdtopotools.github.io/">LSDTopoTools</a>. <a href="https://github.com/LSDtopotools">LSDTopoTools software</a> includes <a href="https://lsdtopotools.github.io/LSDTT_documentation/">documentation</a> and associated <a href="https://github.com/LSDtopotools/lsdviztools">visualisation tools</a>. You can read about it in the software pages in the links above.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
