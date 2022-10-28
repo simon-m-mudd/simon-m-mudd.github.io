@@ -28,7 +28,7 @@ share: false
 
 <div class="tile">
   <h2 class="post-title">Hobbies</h2>
-    <p class="post-excerpt">As a young man I tested my ability to endure physical pain throught the medium of <a>href="../../images/Mudd_running.jpg">distance running</a>. Now I test my ability to endure mental pain through the medium of <a>href="../../images/Mudd_hibs.jpg">football</a>
+    <p class="post-excerpt">As a young man I tested my ability to endure physical pain throught the medium of <a>href="http://simon-m-mudd.github.io/images/Mudd_running.jpg">distance running</a>. Now I test my ability to endure mental pain through the medium of <a>href="http://simon-m-mudd.github.io/images/Mudd_hibs.jpg">football</a>
     </p> 
  </div><!-- /.tile -->
 
