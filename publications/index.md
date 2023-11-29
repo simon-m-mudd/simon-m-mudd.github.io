@@ -25,15 +25,52 @@ You can also see automated updates of my papers. These are probably more likeley
 {% include toc.html %}
  
  
+ 
+## 2023
+
+  **96.** Domingo, J.P.T., Ngwenya, B.T., Attal, M., David, C.P.C., **Mudd, S.M.**, 2023. Geochemical fingerprinting to determine sediment source contribution and improve contamination assessment in mining-impacted floodplains in the Philippines. Applied Geochemistry 159, 105808. [https://doi.org/10.1016/j.apgeochem.2023.105808](https://doi.org/10.1016/j.apgeochem.2023.105808)
+
+  **95.** Thapa, S., Sinclair, H.D., Creed, M.J., **Mudd, S.M.**, Attal, M., Borthwick, A.G.L., Ghimire, B.N., Watson, C.S., (2023). The impact of sediment flux and calibre on flood risk in the Kathmandu Valley, Nepal. Earth Surf. Process. Landf. [https://doi.org/10.1002/esp.5731](https://doi.org/10.1002/esp.5731)
+
+  **94.** Hoskins, A.M., Attal, M., **Mudd, S.M.**, Castillo, M., (2023). Topographic Response to Horizontal Advection in Normal Fault-Bound Mountain Ranges. J. Geophys. Res.-Earth Surf. 128, e2023JF007126. [https://doi.org/10.1029/2023JF007126](https://doi.org/10.1029/2023JF007126) 
+ 
+  **93.** Clubb, F.J.J., **Mudd, S.M.**, Schildgen, T.F., van der Beek, P.A., Devrani, R., Sinclair, H.D., (2023). Himalayan valley-floor widths controlled by tectonically driven exhumation. Nat. Geosci. 16, 739-+. [https://doi.org/10.1038/s41561-023-01238-8](https://doi.org/10.1038/s41561-023-01238-8)
+ 
+## 2022 
+ 
+  **92.** Strong, C.M., Mudd, S.M., (2022). Explaining the climate sensitivity of junction geometry in global river networks. Proc. Natl. Acad. Sci. U. S. A. 119, e2211942119.  [https://doi.org/10.1073/pnas.2211942119](https://doi.org/10.1073/pnas.2211942119)
+
+  **91.** Yang, Z., Finotello, A., Goodwin, G., Gao, C., **Mudd, S.M.**, Lague, D., Schwarz, C., Tian, B., Ghinassi, M., D’Alpaos, A., (2022). Seaward expansion of salt marshes maintains morphological self-similarity of tidal channel networks. J. Hydrol. 615, 128733. [https://doi.org/10.1016/j.jhydrol.2022.128733](https://doi.org/10.1016/j.jhydrol.2022.128733)
+
+  **90.** Yan, L., Attal, M., **Mudd, S.M.**, Zhang, K., Tian, Y., (2022). Drivers of landscape evolution in eastern Tibet. Geomorphology 418, 108478. [https://doi.org/10.1016/j.geomorph.2022.108478](https://doi.org/10.1016/j.geomorph.2022.108478)
+
+  **89.** Hu, Z., Zhou, Z., Chen, Y., **Mudd, S.M.**, Moller, I., Gong, Z., (2022). Editorial: Coastal biogeomorphology. Front. Mar. Sci. 9, 988804. [https://doi.org/10.3389/fmars.2022.988804](https://doi.org/10.3389/fmars.2022.988804)
+
+  **88.** Clubb, F.J., Weir, E.F., **Mudd, S.M.**, (2022). Continuous measurements of valley floor width in mountainous landscapes. Earth Surf. Dyn. 10, 437–456. [https://doi.org/10.5194/esurf-10-437-2022](https://doi.org/10.5194/esurf-10-437-2022)
+ 
+ 
 ## 2021
 
-  **81.** **Mudd, S. M.**, Roda-Boluda, D. C., Goren, L., & Clubb, F. J. (2021). Beyond the Long Profile. In Reference Module in Earth Systems and Environmental Sciences. Elsevier. [https://doi.org/10.1016/B978-0-12-818234-5.00026-2](https://doi.org/10.1016/B978-0-12-818234-5.00026-2)
+  **87.** Gailleton, B., Mudd, S.M., Clubb, F.J., Grieve, S.W.D., Hurst, M.D., (2021). Impact of Changing Concavity Indices on Channel Steepness and Divide Migration Metrics. J. Geophys. Res.-Earth Surf. 126, e2020JF006060. [https://doi.org/10.1029/2020JF006060](https://doi.org/10.1029/2020JF006060)
 
-  **80.** Wahyudi, D. R., Sinclair, H. D., & **Mudd, S. M.** (2021). Progressive evolution of thrust fold topography in the frontal Himalaya. *Geomorphology*, 384, 107717. [https://doi.org/10.1016/j.geomorph.2021.107717](https://doi.org/10.1016/j.geomorph.2021.107717)
+  **86.** Wang, Y.Z., **Mudd, S.M.**, (2021). Evidence for and against landscape transience in the Northern Qinling Mountains, China. Geomorphology 391, 107890. [https://doi.org/10.1016/j.geomorph.2021.107890](https://doi.org/10.1016/j.geomorph.2021.107890)
 
-  **79.** Gabet, E. J., **Mudd, S. M.**, Wood, R. W., Grieve, S. W. D., Binnie, S. A., & Dunai, T. J. (2021). Hilltop Curvature Increases With the Square Root of Erosion Rate. *Journal of Geophysical Research: Earth Surface*, 126(5), e2020JF005858. [https://doi.org/10.1029/2020JF005858](https://doi.org/10.1029/2020JF005858)
+  **85.** Gailleton, B., Sinclair, H.D., **Mudd, S.M.**, Graf, E.L.S., Matenco, L.C., (2021). Isolating Lithologic Versus Tectonic Signals of River Profiles to Test Orogenic Models for the Eastern and Southeastern Carpathians. J. Geophys. Res.-Earth Surf. 126, e2020JF005970. [https://doi.org/10.1029/2020JF005970](https://doi.org/10.1029/2020JF005970)
 
-  **78.** Harries, R. M., Gailleton, B., Kirstein, L. A., Attal, M., Whittaker, A. C., & **Mudd, S. M.** (2021). Impact of climate on landscape form, sediment transfer and the sedimentary record. *Earth Surface Processes and Landforms*, 46(5), 990–1006. [https://doi.org/10.1002/esp.5075](https://doi.org/10.1002/esp.5075)
+  **84.** Domingo, J.P.T., Attal, M., **Mudd, S.M.**, Ngwenya, B.T., David, C.P.C., (2021). Seasonal fluxes and sediment routing in tropical catchments affected by nickel mining. Earth Surf. Process. Landf. 46, 2632–2655. [https://doi.org/10.1002/esp.5198](https://doi.org/10.1002/esp.5198)
+
+  **83.** Evans, D.L., Quinton, J.N., Tye, A.M., Rodes, A., Rushton, J.C., Davies, J. a. C., **Mudd, S.M.**, (2021). How the composition of sandstone matrices affects rates of soil formation. Geoderma 401, 115337. [https://doi.org/10.1016/j.geoderma.2021.115337](https://doi.org/10.1016/j.geoderma.2021.115337)
+
+  **82.** **Mudd, S. M.**, Roda-Boluda, D. C., Goren, L., & Clubb, F. J. (2021). Beyond the Long Profile. In Reference Module in Earth Systems and Environmental Sciences. Elsevier. [https://doi.org/10.1016/B978-0-12-818234-5.00026-2](https://doi.org/10.1016/B978-0-12-818234-5.00026-2)
+
+  **81.** Wahyudi, D. R., Sinclair, H. D., & **Mudd, S. M.** (2021). Progressive evolution of thrust fold topography in the frontal Himalaya. *Geomorphology*, 384, 107717. [https://doi.org/10.1016/j.geomorph.2021.107717](https://doi.org/10.1016/j.geomorph.2021.107717)
+
+  **80.** Gabet, E. J., **Mudd, S. M.**, Wood, R. W., Grieve, S. W. D., Binnie, S. A., & Dunai, T. J. (2021). Hilltop Curvature Increases With the Square Root of Erosion Rate. *Journal of Geophysical Research: Earth Surface*, 126(5), e2020JF005858. [https://doi.org/10.1029/2020JF005858](https://doi.org/10.1029/2020JF005858)
+
+  **79.** Harries, R. M., Gailleton, B., Kirstein, L. A., Attal, M., Whittaker, A. C., & **Mudd, S. M.** (2021). Impact of climate on landscape form, sediment transfer and the sedimentary record. *Earth Surface Processes and Landforms*, 46(5), 990–1006. [https://doi.org/10.1002/esp.5075](https://doi.org/10.1002/esp.5075)
+
+  **78.** D’Alpaos, A., Finotello, A., Goodwin, G.C.H., **Mudd, S.M.**, (2021). Salt Marsh Hydrodynamics, SALT MARSHES: Function, Dynamics, and Stresses. Cambridge Univ Press, Cambridge.
+
 
 
 ## 2020
@@ -42,7 +79,7 @@ You can also see automated updates of my papers. These are probably more likeley
 
   **76.** Grieve, S. W. D., Clubb, F. J., & **Mudd, S. M.** (2020). Reproducible topographic analysis. In Developments in Earth Surface Processes (Vol. 23, pp. 339–367). Elsevier. [https://doi.org/10.1016/B978-0-444-64177-9.00012-6](https://doi.org/10.1016/B978-0-444-64177-9.00012-6)
 
-  **75.** Milodowski, D. T., Hancock, S., Silvestri, S., & **Mudd, S. M.**https://doi.org/10.1016/B978-0-444-64177-9.00005-9](https://doi.org/10.1016/B978-0-444-64177-9.00005-9)
+  **75.** Milodowski, D. T., Hancock, S., Silvestri, S., & **Mudd, S. M.** (2020). Linking life and landscape with remote sensing. In Developments in Earth Surface Processes (Vol. 23, pp. 129–182). Elsevier. [https://doi.org/10.1016/B978-0-444-64177-9.00005-9](https://doi.org/10.1016/B978-0-444-64177-9.00005-9)
 
   **74.** **Mudd, S. M.** (2020). Topographic data from satellites. In Developments in Earth Surface Processes (Vol. 23, pp. 91–128). Elsevier. [https://doi.org/10.1016/B978-0-444-64177-9.00004-7](https://doi.org/10.1016/B978-0-444-64177-9.00004-7)
 
