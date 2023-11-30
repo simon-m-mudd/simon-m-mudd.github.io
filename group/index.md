@@ -16,39 +16,45 @@ I've been lucky to collaborate with some amazing PhD students and postdocs. I ca
 
 ## Current Students and postdocs
 
-Louis Kinnear | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=4127) | Soil weathering fluxes and clay formation rates as a function of erosion.
+
 Noorzalianee Ghazali | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=4433) | Mangrove change.
 Marina Ruiz Sánchez-Oro | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=13531) | Climate and landscape evolution.
-Callum Strong | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=11090) | Evolution of African drainage systems. Co-supervised with Mikael Attal and Hugh Sinclair.
-Justine Domingo | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=7001) | Sediment and pollutant transport in the Philippines. Co-supervised with Mikael Attal and Bryne Ngwenya.
-Donny Wahyudi | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=12284) | Tectonic geomorphology. Co-supervised with Hugh Sinclair.
+Donny Wahyudi | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=12284) | Tectonic geomorphology. Co-supervised with Mikael Attal.
 Saraswati Thapa | [**_Profile_**](https://scholar.google.com/citations?user=X5zT-UgAAAAJ&hl=en) | Flooding and sediment transport. Co-supervised with Hugh Sinclair and Mikael Attal.
 Prakash Pokhrel | | Tectonic geomorphology of the Kathmandu Basin. Co-supervised with Hugh Sinclair and Mikael Attal.
 Anthony Hoskins | |  Drainage reorganization in South Baja California. Co-supervised with Mikael Attal, David Sanderson (SUERC), and Miguel Castillo (UNAM).
 Anya Towers | [**_Research site_**](https://storymaps.arcgis.com/stories/3c048dc7f1fd4c468ef2ec7086c84d82) | Grain sizes in Scotland. Co-supervised with Mikael Attal and Hugh Sinclair.
 Qiuyang Chen | | River meandering and vegetation Co supervised with Mikael Attal and Stephen Hancock
+Zidong Yao | | Pollutant sources, transport and fate. Co-supervised with Mikael Attal. 
+
 
 ## Current visitors
 
-Feng Zhiyong | | Mangrove evolution
+Wenfang Shi | | Tectonic geomorphology. Visiting from the Chinese Earthquake Administration
+Chorkei Long | | Mangrove change. State Key Laboratory of Coasts and Estuarine, East China Normal University
 
 ## Former PhD students, postdocs and researchers
 
 Lynsey MacLeary (nee Callaghan) | [**_linkedin_**](https://www.linkedin.com/in/lynsey-macleary-a0b3633b/?originalSubdomain=uk ) | [**_PhD in 2012_**](https://era.ed.ac.uk/handle/1842/6213). Vegetation and landscape evolution. Now an environmental consultant. 
-Martin D. Hurst | [**_Scholar_**](https://scholar.google.com/citations?user=9--6x5sAAAAJ&hl=en) [**_Profile_**](https://www.gla.ac.uk/schools/ges/staff/martinhurst/) | [**_PhD in 2013_**](https://era.ed.ac.uk/handle/1842/12228). Hillslope and coastal geomorphlogy. Now lecturer Glasgow University. 
-David T. Milodowski | [**_Scholar_**](https://scholar.google.com/citations?user=ay1R3UgAAAAJ&hl=en) [**_Profile_**](https://www.research.ed.ac.uk/portal/en/persons/david-milodowski(0130326f-fa97-48ed-843b-7bcc72e89065).html) | [**_PhD in 2016_**](https://era.ed.ac.uk/handle/1842/20438). Vegetation, topographic analysis, lidar, geomorphlogy. Now PDRA at Edinburgh University. 
-Stuart W.D. Grieve | [**_Scholar_**](https://scholar.google.com/citations?user=LnCvUwwAAAAJ&hl=en) [**_Profile_**](https://swdg.io/) | [**_PhD in 2016_**](https://era.ed.ac.uk/handle/1842/25398). Hillslope geomorphology, natural hazards, topographic analysis. Now lecturer at Queen Mary University London
+Martin D. Hurst | [**_Scholar_**](https://scholar.google.com/citations?user=9--6x5sAAAAJ&hl=en) [**_Profile_**](https://www.gla.ac.uk/schools/ges/staff/martinhurst/) | [**_PhD in 2013_**](https://era.ed.ac.uk/handle/1842/12228). Hillslope and coastal geomorphlogy. Now senior lecturer Glasgow University. 
+David T. Milodowski | [**_Scholar_**](https://scholar.google.com/citations?user=ay1R3UgAAAAJ&hl=en) [**_Profile_**](https://www.research.ed.ac.uk/portal/en/persons/david-milodowski(0130326f-fa97-48ed-843b-7bcc72e89065).html) | [**_PhD in 2016_**](https://era.ed.ac.uk/handle/1842/20438). Vegetation, topographic analysis, lidar, geomorphlogy. Now research scientist at Edinburgh University. 
+Stuart W.D. Grieve | [**_Scholar_**](https://scholar.google.com/citations?user=LnCvUwwAAAAJ&hl=en) [**_Profile_**](https://swdg.io/) | [**_PhD in 2016_**](https://era.ed.ac.uk/handle/1842/25398). Hillslope geomorphology, natural hazards, topographic analysis. Now senior lecturer at Queen Mary University London
 Fiona J. Clubb | [**_Scholar_**](https://scholar.google.com/citations?user=LnCvUwwAAAAJ&hl=en) [**_Profile_**](https://fclubb.github.io/) | [**_PhD in 2017_**](https://era.ed.ac.uk/handle/1842/28817). Topographic analysis, hydrology, landscape evolution, geomorphology. Now assistant professor at Durham University
 John Preston | [**_linkedin_**](https://www.linkedin.com/in/john-preston-61b76a22/?originalSubdomain=uk) | [**_PhD in 2017_**](https://era.ed.ac.uk/handle/1842/31430). Coastal landscape evolution and Vikings. Now environmental consultant. 
 Calum Bradbury | [**_linkedin_**](https://www.linkedin.com/in/calum-bradbury-gis/?originalSubdomain=nz) | Masters by research in 2018. Controls on channel steepness in the Himalyas. Now environmental consultant in New Zealand. 
-Dan Hobley | [**_Scholar_**](https://scholar.google.com/citations?user=kJ13b-kAAAAJ&hl=en) [**_Profile_**](https://www.cardiff.ac.uk/people/view/481890-) | Postdoc in 2013, on project with Hugh Sinclair. Numerical modelling, landscape evolution, planetary geomorphology, sedimentology. Now lecturer at Cardiff University
+Dan Hobley | [**_Scholar_**](https://scholar.google.com/citations?user=kJ13b-kAAAAJ&hl=en) [**_Profile_**](https://www.cardiff.ac.uk/people/view/481890-) | Postdoc in 2013, on project with Hugh Sinclair. Numerical modelling, landscape evolution, planetary geomorphology, sedimentology. Now software engineer
 Marie-Alice Harel | [**_Profile_**](http://www.maharel.com/) | Postdoc in 2015. Cosmogenics, landscape evolution, and hillslope hydrology. [**_Now an illustrator_**](https://www.etsy.com/uk/shop/maharelillo). 
 Declan Valters | [**_Scholar_**](https://scholar.google.com/citations?user=0OIHQmIAAAAJ&hl=en) [**_Profile_**](https://www.bgs.ac.uk/staff/profiles/52311.html) | Landscape evolution, hydrology. Declan was an MEarthSci student at Edinburgh and during his PhD at Manchester and as a research software engineer helped develop LSDTopoTools. Now research software engineer at British Geological Survey
-Guillaume Goodwin | [**_Scholar_**](https://scholar.google.com/citations?user=Or3grvoAAAAJ&hl=en&oi=ao) [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=4505) | Salt marsh evolution. Now at University of Padova
-Boris Gailleton | [**_Scholar_**](https://scholar.google.com/citations?user=r5HIc00AAAAJ&hl=en&oi=ao) [**_Profile_**](https://www.gfz-potsdam.de/en/staff/boris-gailleton/) | Tectonic evolution of the Carpathians and topographic analysis. Co-supervised with Hugh Sinclair. Now at GFZ Potsdam
-Wang Yanzai |  | Soil erosion and tectonic geomorphology
-Yan Luobin | [**_Scholar_**](https://scholar.google.com/citations?user=_ASOJmAAAAAJ&hl=en&oi=ao) | Evolution of sandstone landscapes
-
+Guillaume Goodwin | [**_Scholar_**](https://scholar.google.com/citations?user=Or3grvoAAAAJ&hl=en&oi=ao) [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=4505) | Salt marsh evolution. Now at Fish-pass, and environmental consultancy
+Boris Gailleton | [**_Scholar_**](https://scholar.google.com/citations?user=r5HIc00AAAAJ&hl=en&oi=ao) [**_Profile_**](https://www.gfz-potsdam.de/en/staff/boris-gailleton/) | Tectonic evolution of the Carpathians and topographic analysis. Co-supervised with Hugh Sinclair. Now at CNRS Rennes
+Wang Yanzai |  | Soil erosion and tectonic geomorphology, Congqing Normal University
+Yan Luobin | [**_Scholar_**](https://scholar.google.com/citations?user=_ASOJmAAAAAJ&hl=en&oi=ao) | Evolution of sandstone landscapes. Southwest University
+Callum Strong | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=11090) | Evolution of African drainage systems. Co-supervised with Mikael Attal and Hugh Sinclair. Now at Forestry and Land Scotland
+Justine Domingo | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=7001) | Sediment and pollutant transport in the Philippines. Co-supervised with Mikael Attal and Bryne Ngwenya. Now at Univesity of Glasgow
+Louis Kinnear | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=4127) | Soil weathering fluxes and clay formation rates as a function of erosion.
+Keyu Qin | [**_Scholar_**](https://scholar.google.com/citations?user=_ASOJmAAAAAJ&hl=en&oi=ao) | Landscape and ecosystem change, visitor from Chinese Academy of Sciences. 
+Jingya Liu | [**_Scholar_**](https://scholar.google.com/citations?user=_ASOJmAAAAAJ&hl=en&oi=ao) | Ecosystem services, visitor from Chinese Academy of Sciences.
+[**_Researchgate_**](https://www.researchgate.net/scientific-contributions/Jingya-Liu-2118510042)
 
 ## Opportunities in the Land Surface Dynamics Group
 
