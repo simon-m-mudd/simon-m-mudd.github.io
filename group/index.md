@@ -52,6 +52,8 @@ Yan Luobin | [**_Scholar_**](https://scholar.google.com/citations?user=_ASOJmAAA
 Callum Strong | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=11090) | Evolution of African drainage systems. Co-supervised with Mikael Attal and Hugh Sinclair. Now at Forestry and Land Scotland
 Justine Domingo | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=7001) | Sediment and pollutant transport in the Philippines. Co-supervised with Mikael Attal and Bryne Ngwenya. Now at Univesity of Glasgow
 Louis Kinnear | [**_Profile_**](https://www.ed.ac.uk/geosciences/people/person.html?indv=4127) | Soil weathering fluxes and clay formation rates as a function of erosion.
+Veronica Chiarini | [**_Department website_**](https://geoscienze.unipd.it/veronica-chiarini) | Terraces in karst. Now at the University of Padova
+[**_Researchgate_**](https://www.researchgate.net/scientific-contributions/Jingya-Liu-2118510042)
 Keyu Qin | [**_Scholar_**](https://scholar.google.com/citations?user=_ASOJmAAAAAJ&hl=en&oi=ao) | Landscape and ecosystem change, visitor from Chinese Academy of Sciences. 
 Jingya Liu | [**_Scholar_**](https://scholar.google.com/citations?user=_ASOJmAAAAAJ&hl=en&oi=ao) | Ecosystem services, visitor from Chinese Academy of Sciences.
 [**_Researchgate_**](https://www.researchgate.net/scientific-contributions/Jingya-Liu-2118510042)
